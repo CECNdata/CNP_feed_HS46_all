@@ -1,0 +1,1182 @@
+Date of data,Commodity code,Commodity,US dollar
+201512,0101,"Live horses, asses, mules and hinnies",20000
+201512,0102,Live bovine animals,6392668
+201512,0103,Live swine,85980570
+201512,0104,Live sheep and goats,417270
+201512,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",2846197
+201512,0106,Other live animals,2328493
+201512,0202,"Meat of bovine animals, frozen",3594041
+201512,0203,"Meat of swine, fresh, chilled or frozen",23260500
+201512,0204,"Meat of sheep or goats, fresh, chilled or frozen",7088985
+201512,0205,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",95897
+201512,0206,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen",41973
+201512,0207,"Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen",66518829
+201512,0208,"Other meat and edible meat offal, fresh, chilled or frozen",4106059
+201512,0210,"Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",822612
+201512,0301,Live fish,58775275
+201512,0302,"Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304",27114394
+201512,0303,"Fish, frozen, excluding fish fillets and other fish meat of heading 0304",272727614
+201512,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen",487849991
+201512,0305,"Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption",48571649
+201512,0306,"Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption",181939097
+201512,0307,"Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption",428745747
+201512,0308,"Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption",9577127
+201512,0401,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter.",2178617
+201512,0402,"Milk and cream, concentrated or containing added sugar or other sweetening matter",1235697
+201512,0403,"Buttermilk, curdled milk and cream, yogurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa",22200
+201512,0405,Butter and other fats and oils derived from milk; dairy spreads,866992
+201512,0406,Cheese and curd,65212
+201512,0407,"Birds' eggs, in shell, fresh, preserved or cooked",14731415
+201512,0408,"Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter",1056373
+201512,0409,atural honey,31075301
+201512,0410,"dible products of animal origin, not elsewhere specified or included",7954165
+201512,0502,"Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair",12191376
+201512,0504,"Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",95042295
+201512,0505,"Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation;powder and waste of feathers or parts of feathers",27523999
+201512,0507,"Ivory, tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products",1469373
+201512,0508,"Coral and similar materials, unworked or simply prepared bunot otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttlebone, unworked or simply prepared bunot cut to shape, powder and waste thereof",645477
+201512,0510,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved",142513
+201512,0511,"Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption",8329008
+201512,0601,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 12.12.",381781
+201512,0602,"Other live plants (including their roots), cuttings and slips; mushroom spawn.",16546163
+201512,0603,"Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared.",9051582
+201512,0604,"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh,dried, dyed, bleached, impregnated or otherwise prepared",6110524
+201512,0701,"Potatoes, fresh or chilled.",34309067
+201512,0702,"Tomatoes, fresh or chilled.",20401585
+201512,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",297016360
+201512,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",53346924
+201512,0705,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",9040749
+201512,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",39310726
+201512,0707,"Cucumbers and gherkins, fresh or chilled.",5149469
+201512,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",3195063
+201512,0709,"Other vegetables, fresh or chilled.",80756062
+201512,0710,"Vegetables (uncooked or cooked by steaming or boiling in water),frozen.",93400291
+201512,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",18653603
+201512,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",262545412
+201512,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",67300278
+201512,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",17808528
+201512,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",5107
+201512,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",44521476
+201512,0803,"Bananas, including plantains, fresh or dried.",862211
+201512,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",4837027
+201512,0805,"Citrus fruit, fresh or dried.",355273977
+201512,0806,"Grapes, fresh or dried.",82222424
+201512,0807,"Melons (including watermelons) and papaws (papayas), fresh.",13431326
+201512,0808,"Apples, pears and quinces, fresh.",216543411
+201512,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",1199745
+201512,0810,Other fresh fruits,45559149
+201512,0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",25311218
+201512,0812,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",5855725
+201512,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",15077526
+201512,0814,"Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions.",332481
+201512,0901,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion.",9591530
+201512,0902,"Tea, whether or not flavoured.",158813611
+201512,0904,Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.,47588170
+201512,0906,Cinnamon and cinnamontree flowers.,7326090
+201512,0907,"loves (whole fruit, cloves and stems).",5157
+201512,0908,"Nutmeg, mace and cardamoms.",86138
+201512,0909,"Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries.",2270039
+201512,0910,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices.",44272905
+201512,1003,Barley,7364
+201512,1004,Oats,8240
+201512,1005,Maize (corn).,618705
+201512,1006,Rice.,29288518
+201512,1007,Grain sorghum.,1387213
+201512,1008,"Buckwheat, millet and canary seeds; other cereals.",4134750
+201512,1101,Wheat or meslin flour.,8763754
+201512,1102,Cereal flours other than of wheat or meslin.,169252
+201512,1103,"Cereal groats, meal and pellets.",3091
+201512,1104,"Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 10.06; germ of cereals, whole, rolled, flaked or ground.",5378810
+201512,1105,"Flour, meal, powder, flakes, granules and pellets of potatoes.",153219
+201512,1106,"Flour, meal and powder of the dried leguminous vegetables of heading 07.13, of sago or of roots or tubers of heading 07.14 or of the products of Chapter 8.",3361965
+201512,1107,"Malt, whether or not roasted.",14917843
+201512,1108,tarches; inulin.,14841947
+201512,1109,"Wheat gluten, whether or not dried.",16267260
+201512,1201,"Soya beans, whether or not broken.",10579156
+201512,1202,"Groundnuts, not roasted or otherwise cooked, whether or not shelled or broken.",25490547
+201512,1204,"Linseed, whether or not broken.",482263
+201512,1205,"Rape or colza seeds, whether or not broken.",2209
+201512,1206,"Sunflower seeds, whether or not broken.",66248392
+201512,1207,"Other oil seeds and oleaginous fruits, whether or not broken.",35335372
+201512,1208,"Flours and meals of oil seeds or oleaginous fruits, other than those of mustard.",3129977
+201512,1209,"Seeds, fruit and spores, of a kind used for sowing.",26604201
+201512,1210,"Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin.",100251
+201512,1211,"lants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.",128621120
+201512,1212,"Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included.",80866084
+201512,1213,"Cereal straw and husks, unprepared, whether or not chopped,ground, pressed or in the form of pellets.",311379
+201512,1214,"wedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.",100483
+201512,1301,"Lac; natural gums, resins, gumresins and oleoresins (for example, balsams).",383263
+201512,1302,"Vegetable saps and extracts; pectic substances, pectinates and pectates; agaragar and other mucilages and thickeners, whether or not modified, derived from vegetable products.",132432410
+201512,1401,"Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark).",7976934
+201512,1404,Vegetable products not elsewhere specified or included.,3162681
+201512,1502,"Fats of bovine animals, sheep or goats, other than those of heading 15.03.",81800
+201512,1504,"ats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified.",17206822
+201512,1505,Wool grease and fatty substances derived therefrom (including lanolin).,4665319
+201512,1506,"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified.",86895
+201512,1507,"oyabean oil and its fractions, whether or not refined, but not chemically modified.",14626588
+201512,1508,"Groundnut oil and its fractions, whether or not refined, but not chemically modified.",4017296
+201512,1509,"Olive oil and its fractions, whether or not refined, but not chemically modified.",38247
+201512,1511,"Palm oil and its fractions, whether or not refined, but not chemically modified.",91790
+201512,1512,"unflowerseed, safflower or cottonseed oil and fractions thereof, whether or not refined, but not chemically modified.",268607
+201512,1513,"Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified.",2893
+201512,1514,"Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.",517515
+201512,1515,"Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified.",13289730
+201512,1516,"Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, interesterified, reesterified or elaidinised, whether or not refined, but not further prepared.",27929
+201512,1517,"Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats or oils or their fractions of heading 15.16.",2537446
+201512,1518,"Animal or vegetable fats and oils and their fractions, boiled, oxidised,dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 15.16; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this Chapter, not elsewhere specified or included.",7601136
+201512,1521,"egetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured.",5474239
+201512,1522,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes.,36452
+201512,1601,"Sausages and similar products, of meat, meat offal or blood; food preparations based on these products.",20885740
+201512,1602,"Other prepared or preserved meat, meat offal or blood.",141832924
+201512,1603,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.",1516050
+201512,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs.,291409746
+201512,1605,"rustaceans, molluscs and other aquatic invertebrates, prepared or preserved.",325428463
+201512,1701,"Cane or beet sugar and chemically pure sucrose, in solid form.",7606444
+201512,1702,"Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel.",60002907
+201512,1703,olasses resulting from the extraction or refining of sugar.,818053
+201512,1704,"ugar confectionery (including white chocolate), not containing cocoa.",86381620
+201512,1803,"Cocoa paste, whether or not defatted.",715910
+201512,1804,"Cocoa butter, fat and oil",2122130
+201512,1805,"Cocoa powder, not containing added sugar or other sweetening matter",986609
+201512,1806,hocolate and other food preparations containing cocoa.,49399011
+201512,1901,"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 04.01 to 04.04,not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally efatted basis, not elsewhere specified or included.",8480887
+201512,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",79709427
+201512,1903,"Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms",939866
+201512,1904,"repared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), precooked, or otherwise prepared, not elsewhere specified or included.",22329301
+201512,1905,"read, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.",37469035
+201512,2001,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid.",14909173
+201512,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid.,102761037
+201512,2003,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.",52794473
+201512,2004,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06.",29533644
+201512,2005,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06.",189522308
+201512,2006,"Vegetables, fruit, nuts, fruitpeel and other parts of plants, preserved by sugar (drained, glacé or crystallised).",24867862
+201512,2007,"Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter.",7596553
+201512,2008,"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included.",248777071
+201512,2009,"ruit juices (including grape must) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter.",86800855
+201512,2101,"Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or mate; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof",41114127
+201512,2102,"Yeasts (active or inactive); other singlecell microorganisms, dead (but not including vaccines of heading 30.02); prepared baking powders.",23628341
+201512,2103,"Sauce and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal, whether or not prepared, and mustard",109948604
+201512,2104,Soups and broths and preparations therefor; homogenised composite food preparations.,7607712
+201512,2105,"Ice cream and other edible ice, whether or not containing cocoa.",1834638
+201512,2106,Food preparations not elsewhere specified or included.,116906676
+201512,2201,"Waters, including natural or artificial mineral waters andaerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow.",58518723
+201512,2202,"Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other nonalcoholic beverages, not including fruit or vegetable juices of heading 20.09.",14996229
+201512,2203,Beer made from malt.,17826482
+201512,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",58132361
+201512,2205,Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances.,45540
+201512,2206,"Other fermented beverages (for example, cider, perry, mead, saké); mixtures of fermented beverages and mixtures of fermented beverages and nonalcoholic beverages, not elsewhere specified or included.",2874481
+201512,2207,"Undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol.or higher; ethyl alcohol and other spirits, denatured, of any strength.",1878858
+201512,2208,"Undenatured ethyl alcohol of an alcoholic strength by volume of Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol.; spirits, liqueurs and other spirituous beverages.",61996239
+201512,2209,Vinegar and substitutes for vinegar obtained from acetic acid.,1440576
+201512,2301,"Flours, meals and pellets, of meat or meat offal, of fish or ofcrustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves.",1328959
+201512,2302,"Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants.",647489
+201512,2303,"Residues of starch manufacture and similar residues, beetpulp, bagasse and other waste of sugar manufacture, brewing ordistilling dregs and waste, whether or not in the form of pellets.",15538609
+201512,2304,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil.",69860300
+201512,2305,"Oilcake and other soli residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil.",96105
+201512,2306,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils,other than those of heading 23.04 or 23.05.",4891781
+201512,2308,"Vegetable materials and vegetable waste, vegetable residues and byproducts, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included.",7123974
+201512,2309,Preparations of a kind used in animal feeding.,141963916
+201512,2401,Unmanufactured tobacco; tobacco refuse.,58358119
+201512,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",123002930
+201512,2403,Other manufactured tobacco and manufactured tobacco substitutes; “homogenised” or reconstituted” tobacco; tobacco extracts and essences.,22562612
+201512,2501,"Salts, incl. table salt and denatured salt, and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",9304532
+201512,2502,Unroasted iron pyrites.,592307
+201512,2503,"Sulphur of all kinds (excluding sublimed sulphur, precipitated sulphur and colloidal sulphur)",92447
+201512,2504,Natural graphite.,22578388
+201512,2505,"Natural sands of all kinds, whether or not coloured, other than metalbearing sands of Chapter 26.",1316168
+201512,2506,"Quartz (excluding natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a square or rectangular shape",6232816
+201512,2507,"Kaolin and other kaolinic clays, whether or not calcined",9796698
+201512,2508,"Other clays (not including expanded clays of heading 68.06), andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earths.",21800199
+201512,2509,Chalk.,501398
+201512,2510,"Natural calcium phosphates, natural aluminium calcium phosphates and phosphatic chalk.",3052238
+201512,2511,"Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 28.16.",38148841
+201512,2512,"Siliceous fossil meals, e.g. kieselguhr, tripolite and diatomite, and similar siliceous earths, whether or not calcined, of an apparent specific gravity of 1 or less.",413285
+201512,2513,"Pumice stone; emery; natural corundum, natural garnet and other natural abrasives, whether or not heat-treated",930327
+201512,2514,"Slate, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a square or rectangular shape; slate powder and slate refuse",1146737
+201512,2515,"Marble, travertine, ecaussine and other calcareous monumental or building stone of an apparent specific gravity of 2.5 or more, and alabaster, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",2732358
+201512,2516,"Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",7182871
+201512,2517,"Pebbles, gravel, broken or crushed stone, for concrete aggregates, for road metalling or for railway ballast, shingle and flint, whether or not heat-treated; macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in the first part of the heading; tarred macadam; granules, chippings and powder, of stones of heading 2515 and 2516, whether or not heat-treated",16502928
+201512,2518,"Dolomite, whether or not calcined or sintered, including dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; dolomite ramming mix.",7452017
+201512,2519,"Natural magnesium carbonate ""magnesite""; fused magnesia; dead-burned ""sintered"" magnesia, whether or not containing small quantities of other oxides added before sintering; other magnesium oxide, whether or not pure",59186316
+201512,2520,"Gypsum; anhydrite; plasters consisting of calcined gypsum or calcium sulphate, whether or not coloured, with or without small quantities of accelerators or retarders",2546062
+201512,2521,"Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement",1294056
+201512,2522,"Quicklime, slaked lime and hydraulic lime (excluding pure calcium oxide and calcium hydroxide)",2286793
+201512,2523,"Portland cement, aluminous cement, slagcement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers.",89556653
+201512,2524,Asbestos.,1199094
+201512,2525,"Mica, including splittings; mica waste.",2702567
+201512,2526,"Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; talc.",16081728
+201512,2528,"Natural borates and concentrates thereof (whether or not calcined), but not including borates separated from natural brine; natural boric acid containing not more than 85% of H3BO3 calculated on the dry weight.",72217
+201512,2529,"Feldspar; leucite, nepheline and nepheline syenite; fluorspar.",14423870
+201512,2530,Mineral substances not elsewhere specified or included.,17799485
+201512,2601,"Iron ores and concentrates, including roasted iron pyrites.",5496830
+201512,2602,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more,calculated on the dry weight.",466794
+201512,2604,Nickel ores and concentrates.,7884558
+201512,2606,Aluminium ores and concentrates.,139902
+201512,2610,Chromium ores and concentrates.,52210
+201512,2611,Tungsten ores and concentrates.,193930
+201512,2613,Molybdenum ores and concentrates.,1396745
+201512,2614,Titanium ores and concentrates.,1148903
+201512,2615,"Niobium, tantalum, vanadium or zirconium ores and concentrates.",3299105
+201512,2617,Other ores and concentrates.,1935
+201512,2618,Granulated slag (slag sand) from the manufacture of iron or steel,2935253
+201512,2619,"Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel",7161
+201512,2620,"Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds.",272781
+201512,2621,"Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste.",9176465
+201512,2701,Mituminous substances; mineral waxes,39929440
+201512,2702,"ignite, whether or not agglomerated, excluding jet.",34436
+201512,2704,"Coke and semicoke of coal, of lignite or of peat, whether or not agglomerated; retort carbon.",185898771
+201512,2706,"Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars.",2831898
+201512,2707,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents,5687569
+201512,2708,"Pitch and pitch coke, obtained from coal tar or from other mineral tars",20616217
+201512,2709,"Petroleum oils and oils obtained from bituminous minerals, crude.",73185701
+201512,2710,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils.",1925890357
+201512,2711,Petroleum gases and other gaseous hydrocarbons.,175932889
+201512,2712,"Petroleum jelly, paraffin wax, micro- crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured",59323423
+201512,2713,"Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals.",67051170
+201512,2714,"Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks",423663
+201512,2715,"Bituminous mastics, cut-backs and other bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch(for example, bituminous mastics, cutbacks).",539392
+201512,2716,Electrical energy. (optional heading),112295814
+201512,2801,"Fluorine, chlorine, bromine and iodine",171961
+201512,2802,"Sulphur, sublimed or precipitated; colloidal sulphur.",41028
+201512,2803,Carbon (carbon blacks and other forms of carbon not elsewhere specified or included).,49446166
+201512,2804,"ydrogen, rare gases and other nonmetals.",155737818
+201512,2805,"Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed; mercury",17151882
+201512,2806,"Hydrogen chloride ""hydrochloric acid""; chlorosulphuric acid",316994
+201512,2807,Sulphuric acid; oleum.,436527
+201512,2808,Nitric acid; sulphonitric acids.,508003
+201512,2809,"Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined",51861015
+201512,2810,Oxides of boron; boric acids.,2273781
+201512,2811,Other inorganic acids and other inorganic oxygen compounds of nonmetals.,73591591
+201512,2812,Halides and halide oxides of nonmetals.,4814829
+201512,2813,Sulphides of non-metals; commercial phosphorus trisulphide,558676
+201512,2814,"Ammonia, anhydrous or in aqueous solution.",463611
+201512,2815,"Sodium hydroxide (caustic soda), potassium hydroxide (caustic potash); peroxides of sodium or potassium",38678766
+201512,2816,"Oydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium.",2512566
+201512,2817,Zinc oxide; zinc peroxide.,1379230
+201512,2818,"Artificial corundum, whether or not chemically defined;aluminium oxide; aluminium hydroxide.",53861755
+201512,2819,Chromium oxides and hydroxides,3199433
+201512,2820,Manganese oxides.,6555492
+201512,2821,Iron oxides and hydroxides; earth colours containing 70% or more by weight of combined iron evaluated as Fe2O3.,27653333
+201512,2822,Cobalt oxides and hydroxides; commercial cobalt oxides.,10176061
+201512,2823,Titanium oxides.,8914798
+201512,2824,Lead oxides; red lead and orange lead.,341428
+201512,2825,"Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides.",60126991
+201512,2826,"Hluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts.",21762053
+201512,2827,"Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides",53171945
+201512,2828,Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites,13416346
+201512,2829,Chlorates and perchlorates; bromates and perbromates; iodates and periodates,6849655
+201512,2830,"Sulphides; polysulphides, whether or not chemically defined",12979049
+201512,2831,Dithionites and sulfoxylates,7625080
+201512,2832,Sulphites; thiosulphates,5611501
+201512,2833,Sulphates; alums; peroxosulphates (persulphates),72929299
+201512,2834,Nitrites; nitrates.,14943277
+201512,2835,"Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined.",78083608
+201512,2836,"Carbonates; peroxocarbonates ""percarbonates""; commercial ammonium carbonate containing ammonium carbamate",81265080
+201512,2837,"Cyanides, cyanide oxides and complex cyanides.",21919096
+201512,2839,Silicates; commercial alkali metal silicates.,10387184
+201512,2840,Borates; peroxoborates (perborates).,2896784
+201512,2841,Salts of oxometallic or peroxometallic acids.,28245709
+201512,2842,"Salts of inorganic acids or peroxoacids, incl. aluminosilicates whether or not chemically defined (excluding of oxometallic or peroxometallic acids and azides, and inorganic or organic compounds of mercury)",13035915
+201512,2843,"Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals.",9799616
+201512,2844,"Radioactive chemical elements and radioactive isotopes, incl. their fissile or fertile chemical elements and isotopes, and their compounds; mixtures and residues containing these products",64781914
+201512,2845,"Non-radioactive isotopes; inorganic or organic compounds of such isotopes, whether or not chemically defined",205675
+201512,2846,"Compounds, inorganic or organic, of rareearth metals, of yttrium or of scandium or of mixtures of these metals.",31098870
+201512,2847,"Hydrogen peroxide, whether or not solidified with urea.",136313
+201512,2848,-------,47180
+201512,2849,"Carbides, whether or not chemically defined",45304561
+201512,2850,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 28.49.",6735970
+201512,2853,"Inorganic compounds, incl. distilled or conductivity water and water of similar purity, n.e.s.; liquid air, whether or not rare gases have been removed; compressed air; amalgams (excluding amalgams of precious metals)",10235989
+201512,2901,Acyclic hydrocarbons.,10406640
+201512,2902,Cyclic hydrocarbons.,47495820
+201512,2903,Halogenated derivatives of hydrocarbons,150717024
+201512,2904,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons,whether or not halogenated.",15152878
+201512,2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives.",68613064
+201512,2906,"Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives.",35227427
+201512,2907,henols; phenolalcohols.,17128403
+201512,2908,"Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenolalcohols.",6742905
+201512,2909,"Others, etheralcohols, etherphenols, etheralcoholphenols, alcohol peroxides, ether peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives.",67776369
+201512,2910,"Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a threemembered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",3552985
+201512,2911,"Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",708938
+201512,2912,"Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde.",31052461
+201512,2913,"Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading 29.12.",2851859
+201512,2914,"Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",97345493
+201512,2915,"Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",133600426
+201512,2916,"Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",100405018
+201512,2917,"Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",120506969
+201512,2918,"arboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",212979620
+201512,2919,"Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives.",33969504
+201512,2920,"Esters of other inorganic acids of nonmetals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives.",19392775
+201512,2921,Amine-function compounds.,154068019
+201512,2922,Oxygenfunction aminocompounds.,235584936
+201512,2923,"uaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined.",27719524
+201512,2924,arboxyamidefunction compounds; amidefunction compounds of carbonic acid.,136661610
+201512,2925,arboxyimidefunction compounds (including saccharin and its salts) and iminefunction compounds.,27106775
+201512,2926,Nitrilefunction compounds.,64228138
+201512,2927,"Diazo, azo or azoxycompounds.",17616183
+201512,2928,Organic derivatives of hydrazine or of hydroxylamine.,16222210
+201512,2929,Compounds with other nitrogen function.,43672013
+201512,2930,Organo-sulphur compounds.,120279937
+201512,2931,ther organoinorganic compounds.,152771739
+201512,2932,Heterocyclic compounds with oxygen heteroatom(s) only.,192435409
+201512,2933,Heterocyclic compounds with nitrogen heteroatom(s) only.,583353814
+201512,2934,"ucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds.",199348201
+201512,2935,Sulphonamides.,57225446
+201512,2936,"rovitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent.",175925081
+201512,2937,"ormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; derivatives and structural analogues thereof, including chain modified polypeptides, used primarily as hormones.",63542999
+201512,2938,"Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.",56743444
+201512,2939,"Alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.",16047478
+201512,2940,"Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products of heading 29.37, 29.38 or 29.39.",7133085
+201512,2941,Antibiotics,295861831
+201512,2942,Other organic compounds.,4341999
+201512,3001,"Glands and other organs for organotherapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organotherapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included.",88269233
+201512,3002,"Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products",41548358
+201512,3003,"Medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of two or more constituents which have been mixed together for therapeuti or prophylactic uses, not pu up in measured doses or in forms or packings for retail sale.",56465866
+201512,3004,"Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale (excluding goods of heading 3002, 3005 or 3006)",242587375
+201512,3005,"adding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes.",120360724
+201512,3006,Pharmaceutical goods specified in Note 4 to this Chapter.,85564034
+201512,3101,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products",1753470
+201512,3102,"Mineral or chemical fertilisers, nitrogenous.",600523382
+201512,3103,"Mineral or chemical fertilisers, phosphatic.",32130332
+201512,3104,"Mineral or chemical fertilisers, potassic.",9264613
+201512,3105,"Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg.",504160554
+201512,3201,"Tanning extracts of vegetable origin; tannins and their salts,",237910
+201512,3202,"Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre-tanning",1893085
+201512,3203,"Colouring matter of vegetable or animal origin (including dyeinextracts but excluding animal black), whether or not chemicalldefined; preparations as specified in Note 3 to this Chapter baseon colouring matter of vegetable or animal origin.",12635554
+201512,3204,"Synthetic organic colouring matter, whether or not chemically defined; preparations based on synthetic organic colouring matter of a kind used to dye fabrics or produce colorant preparations; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined (excluding preparations of heading 3207, 3208, 3209, 3210, 3213 and 3215)",226374387
+201512,3205,Colour lakes; preparations as specified in Note 3 to this Chapter based on colour lakes.,26849
+201512,3206,"Other colouring matter; preparations as specified in Note 3 to this Chapter, other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined.",115047989
+201512,3207,"Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the form of powder, granules or flakes.",35774039
+201512,3208,"Paints and varnishes, incl. enamels and lacquers, based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium; solutions of products of headings 3901 to 3913 in volatile organic solvents, containing > 50% solvent by weight (excluding solutions of collodion)",65519395
+201512,3209,"Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium.",11470334
+201512,3210,"Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather.",2349610
+201512,3211,Prepared driers.,1807871
+201512,3212,"Pigments (including metallic powders and flakes) dispersed in nonaqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale.",14459329
+201512,3213,"Artists', students' or signboard painters' colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles,pans or in similar forms or packings.",23155906
+201512,3214,"Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings; non-refractory surfacing preparations for fa?ades, indoor walls, floors, ceilings or the like",20168497
+201512,3215,"Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid.",29088534
+201512,3301,"Essential oils, whether or not terpeneless, incl. concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, fixed oils, waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils",64403405
+201512,3302,"Mixtures of odoriferous substances and mixtures, incl. alcoholic solutions, based on one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages",25587933
+201512,3303,Perfumes and toilet waters.,11123293
+201512,3304,"Beauty or makeup preparations and preparations for the care of the skin (other thanmedicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations.",154591469
+201512,3305,Preparations for use on the hair.,26663570
+201512,3306,"Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages.",33447372
+201512,3307,"Shaving preparations, incl. pre-shave and aftershave products, personal deodorants, bath and shower preparations, depilatories and other perfumery, toilet or cosmetic preparations, n.e.s.; prepared room deodorisers, whether or not perfumed or having disinfectant properties",113468939
+201512,3401,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent",43913643
+201512,3402,"Organic surfaceactive agents (other than soap); surfaceactive preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap,other than those of heading 34.01.",158164379
+201512,3403,"Lubricant preparations, incl. cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release preparations based on lubricants; textile lubricant preparations and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials (excluding preparations containing, as basic constituents, ≥ 70% petroleum oil or bituminous mineral oil by weight)",14572800
+201512,3404,Artificial waxes and prepared waxes.,5501389
+201512,3405,"Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated,coated or covered with such preparations), excluding waxes of heading 34.04.",12229144
+201512,3406,"Candles, tapers and the like",65228110
+201512,3407,"Modelling pastes, including those put up for children's amusement; preparations known as “dental wax”or as “dental impression compounds”, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate).",15398270
+201512,3501,"Casein, caseinates and other casein derivatives; casein glues.",79453
+201512,3502,"Albumins (including concentrates of two or more whey proteins, containing by weight more than 80% whey proteins, calculated on the dry matter), albuminates and other albumin derivatives.",1220431
+201512,3503,"Gelatin (including gelatin in rectangular (including square) sheets, whether or not surfaceworked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01.",7054565
+201512,3504,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed.",36119123
+201512,3505,"Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches.",5684398
+201512,3506,"Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg.",154701805
+201512,3507,nzymes; prepared enzymes not elsewhere specified or included.,29986027
+201512,3601,Propellent powders,1401019
+201512,3602,"Prepared explosives, other than propellent powders",1346665
+201512,3603,Safety fuses; detonating fuses; percussion or detonating caps; igniters; electric detonators.,2820218
+201512,3604,"Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles.",53427744
+201512,3605,"Matches, other than pyrotechnic articles of heading 36.04.",449976
+201512,3606,Ferrocerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in Note 2 to this Chapter.,910907
+201512,3701,"Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs.",55601887
+201512,3702,"Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed.",9856232
+201512,3703,"photographic paper, paperboard and textiles, sensitised,unexposed.",5940331
+201512,3704,"Photographic plates, film, paper, paperboard and textiles, exposed but not developed",9900
+201512,3705,"Photographic plates and film, exposed and developed, other than cinematographic film",75228
+201512,3706,"Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track.",3510
+201512,3707,"Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use.",34785775
+201512,3801,"Artificial graphite; colloidal or semicolloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semimanufactures.",28446593
+201512,3802,"ctivated carbon; activated natural mineral products; animal black, including spent animal black.",32578959
+201512,3804,"Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding tall oil of heading 38.03.",2381841
+201512,3805,"Gum, wood or sulphate turpentine and other terpenic oils produced by the distillation or other treatment of coniferous woods; crude dipentene; sulphite turpentine and other crude para-cymene; pine oil containing alpha-terpineol as the main constituent",1622960
+201512,3806,"Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums.",31507446
+201512,3807,"Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch.",163801
+201512,3808,"Insecticides, rodenticides, fungicides, herbicides, antisprouting products and plantgrowth regulators, disinfectants and similar products, put up in forms or packings for retail sale or as preparations or articles (for example, sulphurtreated bands, wicks and candles, and flypapers).",277293294
+201512,3809,"Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included.",19216993
+201512,3810,"Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding powders and pastes consisting of metal and other materials; preparations of a kind used as cores or coatings for welding electrodes or rods.",6220161
+201512,3811,"ntiknock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anticorrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils.",9233537
+201512,3812,"Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; antioxidising preparations and other compound stabilisers for rubber or plastics.",53404356
+201512,3813,Preparations and charges for fireextinguishers; charged fireextinguishing grenades.,3302720
+201512,3814,"Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers.",3930025
+201512,3815,"Reaction initiators, reaction accelerators and catalytic preparations, not elsewhere specified or included.",33643380
+201512,3816,"Refractory cements, mortars, concretes and similar compositions, other than products of heading 38.01.",18458641
+201512,3817,"Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading 27.07 or 29.02.",24784968
+201512,3818,"Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics. form of",243388938
+201512,3819,"Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals.",826366
+201512,3820,Antifreezing preparations and prepared deicing fluids.,1206130
+201512,3821,"Prepared culture media for the development or maintenance of microorganisms (including viruses and the like) or of plant, human or animal cells.",483536
+201512,3822,"Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06; certified reference materials.",15635921
+201512,3823,Industrial monocarboxylic fatty acids; acid oils from refining;industrial fatty alcohols.,4778346
+201512,3824,"Prepared binders for foundry moulds or cores; chemical products and preparations for the chemical or allied industries, incl. mixtures of natural products, n.e.s.",313774314
+201512,3825,"Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste; sewage sludge; other wastes specified in Note 6 to this Chapter.",633781
+201512,3826,"Biodiesel and mixtures thereof, not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals.",7173705
+201512,3901,"Polymers of ethylene, in primary forms.",73390601
+201512,3902,"Polymers of propylene or of other olefins, in primary forms.",33433579
+201512,3903,"Polymers of styrene, in primary forms.",48852548
+201512,3904,"Polymers of vinyl chloride or of other halogenated olefins, in primary forms.",109623501
+201512,3905,"Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms.",19739825
+201512,3906,crylic polymers in primary forms.,65954622
+201512,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms.",357356509
+201512,3908,Polyamides in primary forms.,55515440
+201512,3909,"minoresins, phenolic resins and polyurethanes, in primary forms.",101688962
+201512,3910,Silicones in primary forms,35096561
+201512,3911,"etroleum resins, coumaroneindene resins, polyterpenes, polysulphides, polysulphones and other products specified in Note 3 to this Chapter, not elsewhere specified or included, in primary forms.",42154812
+201512,3912,"Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms.",41695652
+201512,3913,"Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms.",32319163
+201512,3914,"Ionexchangers based on polymers of headings 39.01 to 39.13, in primary forms",16788129
+201512,3915,"Waste, parings and scrap, of plastics.",4895744
+201512,3916,"Monofilament of which any crosssectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surfac worked but not otherwise worked, of plastics.",37458255
+201512,3917,"Tubes, pipes and hoses, and fittings therefor (for example, joints,elbows, flanges), of plastics.",231943091
+201512,3918,"Floor coverings of plastics, whether or not selfadhesive, in rolls or in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter.",294777479
+201512,3919,"Selfadhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls.",266726923
+201512,3920,"Other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials.",524012438
+201512,3921,"Other plates, sheets, film, foil and strip, of plastics.",172721026
+201512,3922,"Baths, showerbaths, sinks, washbasins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics.",82021576
+201512,3923,"Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics.",777845663
+201512,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics.",809864885
+201512,3925,"Builders' ware of plastics, not elsewhere specified or included.",159810979
+201512,3926,Other articles of plastics and articles of other materials of headings 39.01 to 39.14.,1775121917
+201512,4001,"Natural rubber, balata, guttapercha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip.",893922
+201512,4002,"Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 40.01 with any product of this heading, in primary forms or in plates, sheets or strip.",41728789
+201512,4003,"Reclaimed rubber in primary forms or in plates, sheets or strip.",8944893
+201512,4004,"Waste, parings and scrap of rubber (other than hard rubber)and powders and granules obtained therefrom.",744200
+201512,4005,"ompounded rubber, unvulcanised, in primary forms or in plates, sheets or strip.",7154564
+201512,4006,"Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber.",1026562
+201512,4007,Vulcanised rubber thread and cord.,10109953
+201512,4008,"lates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber.",23821229
+201512,4009,"Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges).",81985896
+201512,4010,"Conveyor or transmission belts or belting, of vulcanised rubber.",71629879
+201512,4011,"New pneumatic tyres, of rubber.",1190452276
+201512,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber.",15944201
+201512,4013,"Inner tubes, of rubber.",49102422
+201512,4014,"Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber.",16712053
+201512,4015,"Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber.",51895554
+201512,4016,Other articles of vulcanised rubber other than hard rubber.,218524916
+201512,4017,"Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber.",57978960
+201512,4101,"Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), whether or not dehaired or split.",611650
+201512,4102,"Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment dressed or further prepared), whether or not with wool on or split, other than those excluded by Note 1 (c) to this Chapter.",325568
+201512,4103,"Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), whether or not dehaired or split, other thanthose excluded by Note 1 (b) or 1 (c) to this Chapter.",477184
+201512,4104,"Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared.",2120915
+201512,4105,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared.",306633
+201512,4106,"Tanned or crust hides and skins of other animals, without wool whether or not split, but not further prepared.",257979
+201512,4107,"Leather further prepared after tanning or crusting, including parchmentdressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 41.14.",36930706
+201512,4112,"Leather further prepared after tanning or crusting, including parchmentdressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14",2531580
+201512,4113,"Leather further prepared after tanning or crusting, including parchmentdressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 41.14.",4793179
+201512,4114,Chamois (including combination chamois) leather; patentleather and patent laminated leather; metallised leather.,1055595
+201512,4115,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour.",1043059
+201512,4201,"Saddlery and harness for any animal, incl. traces, leads, knee pads, muzzles, saddle cloths, saddlebags, dog coats and the like, of any material",42677587
+201512,4202,"Trunks, suitcases, vanitycases, executivecases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travellingbags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shoppingbags, wallets, purses, mapcases, cigarettecases, tobaccopouches, tool bags, sports bags, bottlecases, jewellery boxes, powderboxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper.",2668576138
+201512,4203,"Articles of apparel and clothing accessories, of leather or of composition leather.",150034196
+201512,4205,Other articles of leather or of composition leather,82065008
+201512,4302,"Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 43.03.",10701155
+201512,4303,"rticles of apparel, clothing accessories and other articles of furskin.",234169835
+201512,4304,Artificial fur and articles thereof,1015903
+201512,4401,"Fuel wood, in logs, billets, twigs, faggots or similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms",4275909
+201512,4402,"Wood charcoal (including shell or nut charcoal), whether or notagglomerated.",10618254
+201512,4403,"Wood in the rough, whether or not stripped of bark or sapwood,or roughly squared.",259150
+201512,4404,"Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walkingsticks,umbrellas, tool handles or the like; chipwood and the like.",250392
+201512,4405,Wood wool; wood flour.,480264
+201512,4406,Railway or tramway sleepers (crossties) of wood.,21572
+201512,4407,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or endjointed, of a thickness exceeding 6 mm.",19065179
+201512,4408,"Sheets for veneering, incl. those obtained by slicing laminated wood, for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness of ≤ 6 mm",23196235
+201512,4409,"Wood, incl. strips and friezes for parquet flooring, not assembled, continuously shaped ""tongued, grooved, rebated, chamfered, V-jointed beaded, moulded, rounded or the like"" along any of its edges, ends or faces, whether or not planed, sanded or end-jointed",49165869
+201512,4410,"Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances.",9294119
+201512,4411,"Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances.",113214057
+201512,4412,"Plywood, veneered panels and similar laminated wood.",485571369
+201512,4413,"Densified wood, in blocks, plates, strips or profile shapes",1308264
+201512,4414,"Wooden frames for paintings, photographs, mirrors or similar objects.",39828821
+201512,4415,"Packing cases, boxes, crates, drums and similar packings, of wood; cabledrums of wood; pallets, box pallets and other load boards,of wood; pallet collars of wood.",7207939
+201512,4416,"Wood casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including stave",970382
+201512,4417,"Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood.",10884526
+201512,4418,"Builders' joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes.",118386616
+201512,4419,"Tableware and kitchenware, of wood.",58079747
+201512,4420,"Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture (excluding furniture, lighting fixtures and parts thereof)",85171570
+201512,4421,Other articles of wood.,237604212
+201512,4501,"Natural cork, raw or merely surface-worked or otherwise cleaned; cork waste; crushed, powdered or ground cork",35903
+201512,4502,"Natural cork, debacked or roughly squared, or in square or rectangular blocks, plates, sheets or strip, incl. sharp-edged blanks for corks or stoppers",1000
+201512,4503,Articles of natural cork.,138737
+201512,4504,"Agglomerated cork, with or without a binding substance, and articles of agglomerated cork",1973420
+201512,4601,"Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats, matting, screens).",35544756
+201512,4602,"Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading 46.01; articles of loofah.",114418735
+201512,4703,"Chemical wood pulp, soda or sulphate, other than dissolving grades.",2411642
+201512,4705,Wood pulp obtained by a combination of mechanical and chemical pulping processes.,17317
+201512,4706,"Pulps of fibres derived from recovered ""waste and scrap"" paper or paperboard or of other fibrous cellulosic material",10009202
+201512,4707,ecovered (waste and scrap) paper or paperboard.,24670
+201512,4801,"Newsprint, in rolls or sheets",2030792
+201512,4802,"Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punchcards and punch tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 48.01 or 48.03; handmade paper and paperboard.",76928128
+201512,4803,"Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surfacecoloured, surface decorated or printed, in rolls or sheets",24152618
+201512,4804,"Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 48.02 or 48.03.",49788920
+201512,4805,"Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in Note 3 to this Chapter.",63385020
+201512,4806,"vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets.",4778973
+201512,4807,"Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface coated or impregnated, whether or not internally reinforced, in rolls or sheets.",1456655
+201512,4808,"Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper of the kind described in heading 48.03.",12604242
+201512,4809,"Carbon paper, selfcopy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets.",15885897
+201512,4810,"Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating, whether or not surface coloured, surfacedecorated or printed, in rolls or rectangular (including square) sheets, of any size.",290197526
+201512,4811,"Paper, paperboard, cellulose wadding and webs of cellulose fibres,coated,impregnated,covered, surfacecoloured, surface decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03, 48.09 or 48.10.",117656281
+201512,4812,"Filter blocks, slabs and plates, of paper pulp",319956
+201512,4813,"Cigarette paper, whether or not cut to size or in the form of booklets or tubes.",8166093
+201512,4814,Wallpaper and similar wall coverings; window transparencies of paper.,28167803
+201512,4816,"Carbon paper, self-copy paper and other copying or transfer papers, in rolls of a width of ≤ 36 cm or in rectangular or square sheets with no side measuring > 36 cm in the unfolded state, or cut into shapes other than rectangles or squares, together with full duplicator stencils and offset plates of paper, whether or not in boxes",10072495
+201512,4817,"Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery.",15124815
+201512,4818,"Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width ≤ 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, serviettes, bedsheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres",175789931
+201512,4819,"Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres, n.e.s.; box files, letter trays, and similar articles, of paperboard of a kind used in offices, shops or the like",372817808
+201512,4820,"Registers, account books, note books, order books, receipt books, letter pads, memorandum pads,diaries and similar articles, exercise books, blottingpads, binders (looseleaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard.",131400758
+201512,4821,"paper or paperboard labels of all kinds, whether or not printed.",62296669
+201512,4822,"Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard (whether or not perforated or hardened).",2341865
+201512,4823,"Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper,paperboard, cellulose wadding or webs of cellulose fibres.",211968573
+201512,4901,"Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets.",118785852
+201512,4902,"Newspapers, journals and periodicals, whether or not illustrated or containing advertising material.",1768874
+201512,4903,"Children's picture, drawing or colouring books.",51395625
+201512,4905,"Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed.",1937067
+201512,4906,"Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; handwritten texts; photographic reproductions on sensitised paper and carbon copies of the foregoing",415960
+201512,4907,"Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; banknotes; cheque forms; stock, share or bond certificates and similar documents of title",11924641
+201512,4908,Transfers (decalcomanias),34988966
+201512,4909,"Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings.",61219721
+201512,4910,"Calendars of any kind, printed, including calendar blocks.",10457562
+201512,4911,"Other printed matter, including printed pictures and photographs.",80630773
+201512,5001,Silkworm cocoons suitable for reeling.,127663
+201512,5002,Raw silk (not thrown).,36855719
+201512,5003,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock).",4189631
+201512,5004,Silk yarn (other than yarn spun from silk waste) not put up for retail sale.,5861930
+201512,5005,"Yarn spun from silk waste, not put up for retail sale.",7946686
+201512,5006,"Silk yarn and yarn spun from silk waste, put up for retail sale;silkworm gut.",18489
+201512,5007,Woven fabrics of silk or of silk waste.,58101128
+201512,5101,"Wool, not carded or combed.",5218792
+201512,5102,"Fine or coarse animal hair, not carded or combed.",56700
+201512,5103,"Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock.",2006148
+201512,5104,Garnetted stock of wool or of fine or coarse animal hair.,53806
+201512,5105,"Wool and fine or coarse animal hair, carded or combed (including combed wool in fragments).",71512707
+201512,5106,"Yarn of carded wool, not put up for retail sale.",7626037
+201512,5107,"Yarn of combed wool, not put up for retail sale.",23401033
+201512,5108,"yarn of fine animal hair (carded or combed), not put up for retail sale.",51738411
+201512,5109,"Yarn of wool or of fine animal hair, put up for retail sale.",3308416
+201512,5110,"Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale.",105496
+201512,5111,Woven fabrics of carded wool or of carded fine animal hair.,5661273
+201512,5112,Woven fabrics of combed wool or of combed fine animal hair.,31335394
+201512,5113,Woven fabrics of coarse animal hair or of horsehair.,319413
+201512,5201,"Cotton, not carded or combed.",2190276
+201512,5202,Cotton waste (including yarn waste and garnetted stock).,43745
+201512,5203,"Cotton, carded or combed.",72241
+201512,5204,"Cotton sewing thread, whether or not put up for retail sale.",2634387
+201512,5205,"Cotton yarn (other than sewing thread), containing 85% or more by weight of cotton, not put up for retail sale.",88107899
+201512,5206,"otton yarn (other than sewing thread), containing less than 85% by weight of cotton, not put up for retail sale.",36353284
+201512,5207,otton yarn (other than sewing thread) put up for retail sale.,2306997
+201512,5208,"Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing not more than 200 g/m2",784228445
+201512,5209,"Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing more than 200 g/m2",193747930
+201512,5210,"Woven fabrics of cotton, containing less than 85% by weight of cotton, mixed mainly or solely with manmade fibres, weighing not more than 200 g/m2.",110550938
+201512,5211,"Woven fabrics of cotton, containing less than 85% by weight of cotton, mixed mainly or solely with manmade fibres, weighing more than 200 g/m2.",154986205
+201512,5212,Other woven fabrics of cotton.,9179602
+201512,5301,"Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock).",332970
+201512,5302,"True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock).",61977
+201512,5305,"Coconut, abaca ""Manila hemp or Musa textilis Nee"", ramie, agave and other vegetable textile fibres, n.e.s., raw or processed, but not spun; tow, noils and waste of such fibres, incl. yarn waste and garnetted stock",227455
+201512,5306,lax yarn.,32787182
+201512,5307,Yarn of jute or of other textile bast fibres of heading 53.03.,149445
+201512,5308,Yarn of other vegetable textile fibres; paper yarn.,2809295
+201512,5309,Woven fabrics of flax.,87837251
+201512,5310,Woven fabrics of jute or of other textile bast fibres of heading 5303,310368
+201512,5311,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn.,38472370
+201512,5401,"Sewing thread of manmade filaments, whether or not put up for retail sale.",33744163
+201512,5402,"Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex.",344998727
+201512,5403,"Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex.",35733054
+201512,5404,"Synthetic monofilament of 67 decitex or more and of which no crosssectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm.",13369658
+201512,5405,"Artificial monofilament of 67 decitex or more and of which no crosssectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of artificial textile materials of an apparent width not exceeding 5 mm.",213920
+201512,5406,"Manmade filament yarn (other than sewing thread), put up for retail sale.",4265588
+201512,5407,"Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 54.04.",1028593840
+201512,5408,"Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 54.05.",27071458
+201512,5501,Synthetic filament tow.,6523871
+201512,5502,Artificial filament tow.,195116
+201512,5503,"Synthetic staple fibres, not carded, combed or otherwise processed for spinning.",90031340
+201512,5504,"Artificial staple fibres, not carded, combed or otherwise processed for spinning.",28852590
+201512,5505,"Waste (including noils, yarn waste and garnetted stock) of manmade fibres.",21201
+201512,5506,"Synthetic staple fibres, carded, combed or otherwise processed for spinning.",1967153
+201512,5507,"Artificial staple fibres, carded, combed or otherwise processed for spinning.",698604
+201512,5508,"Sewing thread of manmade staple fibres, whether or not put up for retail sale.",39246240
+201512,5509,"Yarn (other than sewing thread) of synthetic staple fibres, not put up for retail sale.",118243891
+201512,5510,"Yarn (other than sewing thread) of artificial staple fibres, not put up for retail sale.",20841765
+201512,5511,"Yarn (other than sewing thread) of manmade staple fibres, put up for retail sale.",2490702
+201512,5512,"Woven fabrics of synthetic staple fibres, containing 85% or more by weight of synthetic staple fibres.",126266158
+201512,5513,"Woven fabrics of synthetic staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m2.",211849310
+201512,5514,"Woven fabrics of synthetic staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, of a weight exceeding 170g/m2.",58609356
+201512,5515,Other woven fabrics of synthetic staple fibres.,119419928
+201512,5516,Woven fabrics of artificial staple fibres.,261346449
+201512,5601,"Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock),textile dust and mill neps.",27191518
+201512,5602,"Felt, whether or not impregnated, coated, covered or laminated.",12721913
+201512,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",220709001
+201512,5604,"Textile-covered rubber thread and cord; textile yarn, strip and the like of heading 5404 and 5405, impregnated, coated, covered or sheathed with rubber or plastics",20924499
+201512,5605,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, of textile fibres, combined with metal in the form of thread, strip or powder or covered with metal",10208304
+201512,5606,"Gimped yarn, gimped strip and the like of heading 5404 or 5405; chenille yarn, incl. flock chenille yarn, and loop wale-yarn",6791453
+201512,5607,"Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics",57658710
+201512,5608,"Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials.",56942967
+201512,5609,"Articles of yarn, strip or the like of heading 54.04 or 54.05, twine, cordage, rope or cables, not elsewhere specified or included.",19045024
+201512,5701,"Carpets and other textile floor coverings, knotted, whether or not made up.",11560420
+201512,5702,"Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made up, incl. Kelem, Schumacks, Karamanie and similar hand-woven rugs",40468785
+201512,5703,"Carpets and other textile floor coverings, tufted, whether or not made up.",112090414
+201512,5704,"Carpets and other floor coverings, of felt, not tufted or flocked, whether or not made up",1855205
+201512,5705,"Other carpets and other textile floor coverings, whether or not made up.",68448220
+201512,5801,"Woven pile fabrics and chenille fabrics (excluding terry towelling and similar woven terry fabrics, tufted textile fabrics and narrow woven fabrics of heading 5806)",80743489
+201512,5802,"Terry towelling and similar woven terry fabrics, tufted textile fabrics (excluding narrow woven fabrics of heading 5806, carpets and other floor coverings)",5707412
+201512,5803,"Gauze, other than narrow fabrics of heading 58.06",488389
+201512,5804,"Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 60.02 to 60.06.",85899573
+201512,5805,"Hand-woven tapestries of the type Gobelin, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries, e.g. petit point, cross-stitch, whether or not made up (excluding Kelem, Schumacks, Karamanie and the like, and tapestries ＞ 100 years old)",1563317
+201512,5806,"Narrow woven fabrics of textile materials, with a width of ≤ 30 cm (excluding labels, badges and similar articles); narrow fabrics consisting of warp without weft assembled by means of an adhesive ""bolducs""",118515840
+201512,5807,"Cabels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered.",27849661
+201512,5808,"Braids of textile materials, in the piece; ornamental trimmings of textile materials, in the piece, not embroidered, other than knitted or crocheted; tassels, pompons and similar articles of textile materials",16251716
+201512,5809,"Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 5605, of a kind used in apparel, as furnishing fabrics or for similar purposes, n.e.s.",132006
+201512,5810,"Embroidery on a textile fabric ground, in the piece, in strips or in motifs",86807307
+201512,5811,"Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading 5810 and quilted fabrics for bedding and furnishings)",1842526
+201512,5901,"Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading 5810 and quilted fabrics for bedding and furnishings)",26090824
+201512,5902,"Tyre cord fabric of high-tenacity yarn of nylon or other polyamides, polyesters or viscose rayon, whether or not dipped or impregnated with rubber or plastic",46789522
+201512,5903,"Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 59.02.",443694732
+201512,5904,"Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape.",1002230
+201512,5905,Textile wall coverings.,1349342
+201512,5906,"Rubberised textile fabrics, other than those of heading 59.02.",11671304
+201512,5907,"Impregnated, coated or covered textile fabrics; painted canvas being theatrical scenery, studio backcloths or the like, n.e.s.",25305921
+201512,5908,"Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas-mantle fabric for incandescent gas mantles, whether or not impregnated",757136
+201512,5909,"Textile hosepiping and similar textile tubing, whether or not impregnated or coated, with or without lining, armour or accessories of other materials",9522484
+201512,5910,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material.",5654636
+201512,5911,"Textile products and articles, for technical use, specified in Note 7 to chapter 59",50752998
+201512,6001,"Pile fabrics, incl. ""long pile"" fabrics and terry fabrics, knitted or crocheted",194692808
+201512,6002,"Knitted or crocheted fabrics of a width not exceeding 30cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other than those of heading 60.01.",10508797
+201512,6003,"Knitted or crocheted fabrics of a width not exceeding 30cm, other than those of heading 60.01 or 60.02.",3485314
+201512,6004,"Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other than those of heading 60.01",227781971
+201512,6005,"Warp knit fabrics (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04.",93054945
+201512,6006,Other knitted or crocheted fabrics.,719755581
+201512,6101,"Men's or boys' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, wind-jackets and similar articles, knitted or crocheted (excluding suits, ensembles, jackets, blazers, bib and brace overalls and trousers)",31262620
+201512,6102,"Women's or girls' overcoats, carcoats, capes, cloaks, anoraks (including skijackets), windcheaters, windjackets and similar articles, knitted or crocheted, other than those of heading 61.04.",238437367
+201512,6103,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts",706691117
+201512,6104,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts, knitted or crocheted",2126752185
+201512,6105,"en's or boys' shirts, knitted or crocheted.",132870642
+201512,6106,"Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted (excluding T-shirts and vests)",97330042
+201512,6107,"Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted (excluding vests and singlets)",242235664
+201512,6108,"Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns, housecoats and similar articles, knitted or crocheted (excluding T-shirts, vests, brassieres, girdles, corsets and similar articles)",516042453
+201512,6109,"T-shirts, singlets and other vests, knitted or crocheted",945182231
+201512,6110,"Jerseys, pullovers, cardigans, waistcoats and similar articles, of wool, knitted or crocheted (excluding wadded waistcoats)",1828756292
+201512,6111,"Babies' garments and clothing accessories of wool or fine animal hair, knitted or crocheted (excluding hats)",236818165
+201512,6112,"Track-suits, ski-suits and swimwear, knitted or crocheted",200557334
+201512,6113,"Garments, knitted or crocheted, rubberised or impregnated, coated or covered with plastics or other materials (excluding babies' garments and clothing accessories)",19100704
+201512,6114,"Special garments for professional, sporting or other purposes, n.e.s., knitted or crocheted",107453273
+201512,6115,"Pantyhose, tights, stockings, socks and other hosiery, incl. graduated compression hosiery [e.g., stockings for varicose veins] and footwear without applied soles, knitted or crocheted (excluding for babies)",569063672
+201512,6116,"Gloves, mittens and mitts, knitted or crocheted (excluding for babies)",195167904
+201512,6117,"Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories.",211325388
+201512,6201,"Men’s or boys’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, windjackets and similar articles, other than those of heading 62.03.",360491906
+201512,6202,"Women’s or girls’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.04.",552252311
+201512,6203,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (excluding knitted or crocheted, wind-jackets and similar articles, separate waistcoats, tracksuits, ski suits and swimwear)",1341829453
+201512,6204,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (excluding knitted or crocheted, wind-jackets and similar articles, slips, petticoats and panties, tracksuits, ski suits and swimwear)",2920073975
+201512,6205,Men's or boys' shirts.,351619276
+201512,6206,"Women's or girls' blouses, shirts and shirtblouses.",219199938
+201512,6207,"Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles",40181843
+201512,6208,"Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns, housecoats and similar articles (excluding knitted or crocheted, brassières, girdles, corsets and similar articles)",148923886
+201512,6209,Babies garments and clothing accessories of textile materials (excluding knitted or crocheted and hats),61736106
+201512,6210,"Garments made up of felt or nonwovens, whether or not impregnated, coated, covered or laminated; garments of textile fabrics, rubberised or impregnated, coated, covered or laminated with plastics or other substances (excluding knitted or crocheted, and babies' garments and clothing accessories)",373344314
+201512,6211,"Tracksuits, ski suits, swimwear and other garments, n.e.s.",377818178
+201512,6212,"Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, of all types of textile materials, whether or not elasticated, incl. knitted or crocheted (excluding belts and corselets made entirely of rubber)",525332898
+201512,6213,Handkerchiefs,14254782
+201512,6214,"Shawls, scarves, mufflers, mantillas, veils and similar articles",172515772
+201512,6215,"Ties, bow ties and cravats of textile materials",36824791
+201512,6216,"Gloves, mittens and mitts, of all types of textile materials (excluding knitted or crocheted and for babies)",28090201
+201512,6217,"Made-up clothing accessories and parts of garments or clothing accessories, of all types of textile materials, n.e.s.",37411052
+201512,6301,Blankets and travelling rugs,316198795
+201512,6302,"Bed linen, table linen, toilet linen and kitchen linen.",783348683
+201512,6303,Curtains (including drapes) and interior blinds; curtain or bed valances.,210009006
+201512,6304,"Other furnishing articles, excluding those of heading 94.04.",210983635
+201512,6305,"Packs and bags, of a kind used for the packing of goods.",216940021
+201512,6306,"Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; camping goods of all types of textile materials",224998854
+201512,6307,"other made up articles, including dress patterns.",540104397
+201512,6308,"Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes, or similar textile articles, put up in packings for retail sale.",2449699
+201512,6309,Worn clothing and other worn articles.,24867303
+201512,6310,"Used or new rags, scrap twine, cordage, rope and cables and worn-out articles thereof, of textile materials",1243741
+201512,6401,"Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes.",58558484
+201512,6402,Other footwear with outer soles and uppers of rubber or plastics.,2304633550
+201512,6403,"ootwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather.",987878018
+201512,6404,"Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials.",1518161031
+201512,6405,Other footwear.,120960745
+201512,6406,"Parts of footwear, incl. uppers whether or not attached to soles other than outer soles; removable in-soles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof (excluding articles of asbestos)",240151240
+201512,6501,"Hatforms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt.",990942
+201512,6502,"Hatshapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed",1423120
+201512,6504,"Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed",38388482
+201512,6505,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hairnets of any material, whether or not lined or trimmed.",267606506
+201512,6506,"Other headgear, whether or not lined or trimmed.",141471022
+201512,6507,"Headbands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear",11787207
+201512,6601,"Umbrellas and sun umbrellas (including walkingstick umbrellas, garden umbrellas and similar umbrellas).",287150971
+201512,6602,"Walkingsticks, seatsticks, whips, ridingcrops and the like",9721882
+201512,6603,"Parts, trimmings and accessories of articles of heading 66.01 or 66.02.",23470482
+201512,6701,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 05.05 and worked quills and scapes)",5650198
+201512,6702,"Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit.",294076288
+201512,6703,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like.",11387845
+201512,6704,"igs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included.",293827271
+201512,6801,"Setts, curbstones and flagstones, of natural stone (except slate).",21497818
+201512,6802,"Worked monumental or building stone (except slate) and articles thereof, other than goods of heading 68.01; mosaic cubes and the like, of natural stone (including slate), whether or not on a backing; artificially coloured granules, chippings and powder, of natural stone (including slate).",724711455
+201512,6803,Worked slate and articles of slate or of agglomerated slate.,16858850
+201512,6804,"Millstones, grindstones, grinding wheels and the like, without frameworks, for milling, grinding, pulping, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials",69171446
+201512,6805,"Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up.",32380393
+201512,6806,"Slag-wool, rock-wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound absorbing mineral materials",32606608
+201512,6807,"Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch).",2427831
+201512,6808,"Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders",13817750
+201512,6809,Articles of plaster or of compositions based on plaster.,29020862
+201512,6810,"Articles of cement, of concrete or of artificial stone, whether or not reinforced.",296712815
+201512,6811,"Articles of asbestos-cement, of cellulose fibre-cement or the like.",19237224
+201512,6812,"Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforced, other than goods of heading 68.11 or 68.13.",3495613
+201512,6813,"Friction material and articles thereof, e.g., sheets, rolls, strips, segments, discs, washers, pads, not mounted, for brakes, clutches or the like, with a basis of asbestos, other mineral substances or cellulose, whether or not combined with textile or other materials",4157375
+201512,6814,"Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials.",5195863
+201512,6815,"Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included.",43288740
+201512,6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths",2634889
+201512,6902,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths.",121332354
+201512,6903,"Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths and rods), other than those of siliceous fossil meals or of similar siliceous earths.",22929034
+201512,6904,"Geramic building bricks, flooring blocks, support or filler tiles and the like.",133384150
+201512,6905,"Roofing tiles, chimneypots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods.",3322111
+201512,6906,"Ceramic pipes, conduits, guttering and pipe fittings",490914
+201512,6907,"Geramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics.",380312370
+201512,6908,-------,645671797
+201512,6909,"Geramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods.",42083495
+201512,6910,"Geramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures.",469778679
+201512,6911,"Tableware, kitchenware, other household articles and toilet articles, of porcelain or china.",612052026
+201512,6912,"Geramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china.",35766243
+201512,6913,Statuettes and other ornamental ceramic articles.,293277147
+201512,6914,Other ceramic articles.,71972992
+201512,7001,Cullet and other waste and scrap of glass; glass in the mass.,6397385
+201512,7002,"Glass in balls (other than microspheres of heading 70.18), rods or tubes, unworked.",12087638
+201512,7003,"Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or nonreflecting layer, but not otherwise worked.",54963196
+201512,7004,"Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or nonreflecting layer, but not otherwise worked.",11214788
+201512,7005,"Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or nonreflecting layer, but not otherwise worked.",50529693
+201512,7006,"Glass of heading 70.03, 70.04 or 70.05, bent, edgeworked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials.",55707465
+201512,7007,"safety glass, consisting of toughened (tempered) or laminated glass.",211297497
+201512,7008,Multiplewalled insulating units of glass.,24893664
+201512,7009,"Glass mirrors, whether or not framed, including rearview mirrors.",180434237
+201512,7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass.",140047739
+201512,7011,"Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps, cathoderay tubes or the like.",3699572
+201512,7013,"Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 70.10 or 70.18).",333055888
+201512,7014,"Signalling glassware and optical elements of glass (other than those of heading 70.15), not optically worked.",7905705
+201512,7015,"Clock or watch glasses and similar glasses, glasses for non corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses.",1890150
+201512,7016,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms.",55975140
+201512,7017,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated.",8607328
+201512,7018,"Glass beads, imitation pearls, imitation precious or semiprecious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lampworked glass, other than imitation jewellery; glass microspheres not exceeding 1mm in diameter.",102658633
+201512,7019,"Glass fibres (including glass wool) and articles thereof (for example, yarn, woven fabrics).",180054418
+201512,7020,Other articles of glass,58250932
+201512,7101,"Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport.",5222211
+201512,7102,"Diamonds, whether or not worked, but not mounted or set.",205924873
+201512,7103,"Precious stones and semi-precious stones, whether or not worked or graded, but not strung, mounted or set, ungraded precious stones and semi-precious stones, temporarily strung for convenience of transport",41448917
+201512,7104,"Synthetic or reconstructed precious or semiprecious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semiprecious stones, temporarily strung for convenience of transport.",15287097
+201512,7105,Dust and powder of natural or synthetic precious or semiprecious stones.,10937645
+201512,7106,"Silver (including silver plated with gold or platinum), unwrought or in semimanufactured forms, or in powder form.",65891783
+201512,7107,"Base metals clad with silver, not further worked than semimanufactured.",44336
+201512,7108,"Gold (including gold plated with platinum) unwrought or in semimanufactured forms, or in powder form.",117744886
+201512,7109,"Base metals or silver, clad with gold, not further worked than semimanufactured.",20095
+201512,7110,"Platinum, unwrought or in semimanufactured forms, or in powder form.",2515145
+201512,7112,"Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious metal.",4351625
+201512,7113,"Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal.",3538860455
+201512,7114,"Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal.",9523264
+201512,7115,Other articles of precious metal or of metal clad with precious metal.,909878819
+201512,7116,"Articles of natural or cultured pearls, precious or semiprecious stones (natural, synthetic or reconstructed).",124278075
+201512,7117,Imitation jewellery.,261734004
+201512,7118,Coin.,130454
+201512,7201,"Pig iron and spiegeleisen in pigs, blocks or other primary forms.",4718038
+201512,7202,Ferroalloys.,53883324
+201512,7203,"Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94%, in lumps, pellets or similar forms.",13300
+201512,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel.,242489
+201512,7205,"Nranules and powders, of pig iron, spiegeleisen, iron or steel",9599495
+201512,7206,Iron and nonalloy steel in ingots or other primary forms (excluding iron of heading 72.03).,20
+201512,7207,Semi-finished products of iron or nonalloy steel.,4973
+201512,7208,"Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, hotrolled, not clad, plated or coated.",29192904
+201512,7209,"Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, coldrolled (coldreduced), not clad, plated or coated.",111379197
+201512,7210,"at-rolled products of iron or non-alloy steel, of a width ≥ 600 mm, hot-rolled or cold-rolled ""cold-reduced"", clad, plated or coated",846454598
+201512,7211,"Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, not clad, plated or coated.",12566774
+201512,7212,"Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, clad, plated or coated.",16140902
+201512,7213,"Bars and rods, hotrolled, in irregularly wound coils, of iron or nonalloy steel.",1864255
+201512,7214,"Other bars and rods of iron or nonalloy steel, not further worked than forged, hotrolled, hotdrawn or hotextruded, but including those twisted after rolling.",8326301
+201512,7215,Other bars and rods of iron or nonalloy steel.,694981
+201512,7216,"Angles, shapes and sections of iron or nonalloy steel.",48205613
+201512,7217,Wire of iron or nonalloy steel.,126864562
+201512,7218,Stainless steel in ingots or other primary forms; semifinished products of stainless steel.,241676
+201512,7219,"Flat-rolled products of stainless steel, of a width of 600 mm or more.",317899960
+201512,7220,"Flat-rolled products of stainless steel, of a width of less than 600 mm.",28645591
+201512,7221,"Bars and rods, hotrolled, in irregularly wound coils, of stainless steel.",13343684
+201512,7222,"Other bars and rods of stainless steel; angles, shapes and sections of stainless steel.",14618892
+201512,7223,Wire of stainless steel.,21733181
+201512,7224,Other alloy steel in ingots or other primary forms; semifinished products of other alloy steel.,507924
+201512,7225,"Flat-rolled products of other alloy steel, of a width of 600 mm or more.",606386747
+201512,7226,"Flat-rolled products of alloy steel other than stainless, of a width of ≥ 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and further worked (excluding plated or coated with zinc and products of silicon-electrical steel)",12502064
+201512,7227,"Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel.",363608846
+201512,7228,"Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or nonalloy steel.",1067758958
+201512,7229,Wire of other alloy steel.,31024655
+201512,7301,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel.",20010822
+201512,7302,"Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers ""cross-ties"", fish-plates, chairs, chair wedges, sole plates ""base plates"", rail clips, bedplates, ties and other material specialised for jointing or fixing rails",53078623
+201512,7303,"Tubes, pipes and hollow profiles, of cast iron.",48592298
+201512,7304,"Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel.",378630585
+201512,7305,"Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel.",82401223
+201512,7306,"Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel.",252448838
+201512,7307,"Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel.",360439002
+201512,7308,"Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridgesections, lockgates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel.",1156957033
+201512,7309,"eservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",36805951
+201512,7310,"anks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",99130462
+201512,7311,"Containers for compressed or liquefied gas, of iron or steel.",49902049
+201512,7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated.",125023708
+201512,7313,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel.",5197602
+201512,7314,"Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel.",96930329
+201512,7315,"Chain and parts thereof, of iron or steel.",128669018
+201512,7316,"Anchors, grapnels and parts thereof, of iron or steel.",5757250
+201512,7317,"Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper.",111161732
+201512,7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotterpins, washers (including spring washers) and similar articles, of iron or steel.",442967545
+201512,7319,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included.",8964331
+201512,7320,"Springs and leaves for springs, of iron or steel.",65217422
+201512,7321,"Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gasrings, plate warmers and similar nonelectric domestic appliances, and parts thereof, of iron or steel.",416065242
+201512,7322,"Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (including distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motordriven fan or blower, and parts thereof, of iron or steel.",10803266
+201512,7323,"Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel.",645464906
+201512,7324,"Sanitary ware and parts thereof, of iron or steel.",150224033
+201512,7325,Other cast articles of iron or steel.,63932934
+201512,7326,Other articles of iron or steel.,729363128
+201512,7402,Unrefined copper; copper anodes for electrolytic refining.,9182805
+201512,7403,"Refined copper and copper alloys, unwrought.",102197227
+201512,7404,Copper waste and scrap.,20789
+201512,7405,Master alloys of copper.,141665
+201512,7406,Copper powders and flakes.,2423733
+201512,7407,"Copper bars, rods and profiles.",6068121
+201512,7408,Copper wire.,20046834
+201512,7409,"Copper plates, sheets and strip, of a thickness exceeding 0.15mm.",21463194
+201512,7410,"Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm.",61749992
+201512,7411,Copper tubes and pipes.,89944332
+201512,7412,"Copper tube or pipe fittings (for example, couplings, elbows, sleeves).",95850225
+201512,7413,"Stranded wire, cables, plaited bands and the like, of copper, not electrically insulated.",2881437
+201512,7415,"Nails, tacks, drawing pins, staples (other than those of heading 83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotterpins, washers (including spring washers) and similar articles, of copper.",11339849
+201512,7418,"Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper.",34029530
+201512,7419,Other articles of copper.,21344112
+201512,7502,nwrought nickel.,15327350
+201512,7503,Nickel waste and scrap.,364185
+201512,7504,Nickel powders and flakes.,2209140
+201512,7505,"Nickel bars, rods, profiles and wire.",2596295
+201512,7506,"Nickel plates, sheets, strip and foil.",1515886
+201512,7507,"Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",3143239
+201512,7508,Other articles of nickel.,2371860
+201512,7601,Unwrought aluminium.,100937947
+201512,7602,Aluminium waste and scrap.,243903
+201512,7603,Aluminium powders and flakes.,3603300
+201512,7604,"Aluminium bars, rods and profiles.",387316584
+201512,7605,Aluminium wire.,8535261
+201512,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm.",344414758
+201512,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm.",251624128
+201512,7608,Aluminium tubes and pipes.,32930784
+201512,7609,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves).",18053201
+201512,7610,"Aluminium structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridgesections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures.",318945401
+201512,7611,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",454986
+201512,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",18799599
+201512,7613,Aluminium containers for compressed or liquefied gas.,4339667
+201512,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated.",39745489
+201512,7615,"Table, kitchen or other household articles and parts thereof, of aluminium; pot scourers and scouring or polishing pads, gloves and the like, of aluminium; sanitary ware and parts thereof, of aluminium.",219047343
+201512,7616,Other articles of aluminium.,268170394
+201512,7801,Unwrought lead.,10373303
+201512,7804,"Lead plates, sheets, strip and foil; lead powders and flakes.",3290556
+201512,7806,Other articles of lead.,529572
+201512,7901,Unwrought zinc.,975442
+201512,7903,"zinc dust, powders and flakes.",25609
+201512,7904,"Zinc bars, rods, profiles and wire.",3195819
+201512,7905,"Zinc plates, sheets, strip and foil.",59795
+201512,7907,Other articles of zinc.,32693844
+201512,8001,Unwrought tin.,7648824
+201512,8003,"Tin bars, rods, profiles and wire.",2184529
+201512,8007,Other articles of tin.,3266459
+201512,8101,"Wungsten (wolfram) and articles thereof, including waste and scrap.",14239309
+201512,8102,"Molybdenum and articles thereof, including waste and scrap.",10734733
+201512,8103,"Tantalum and articles thereof, including waste and scrap.",9659823
+201512,8104,"Magnesium and articles thereof, including waste and scrap.",87169404
+201512,8105,"Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap.",3640081
+201512,8106,"Bismuth and articles thereof, including waste and scrap.",6120896
+201512,8107,"Cadmium and articles thereof, including waste and scrap.",399309
+201512,8108,"Titanium and articles thereof, including waste and scrap.",24254227
+201512,8109,"Zirconium and articles thereof, including waste and scrap.",5749163
+201512,8110,"Antimony and articles thereof, including waste and scrap.",1712850
+201512,8111,"Manganese and articles thereof, including waste and scrap.",37601614
+201512,8112,"Beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium, and articles of these metals, including waste and scrap.",9542715
+201512,8113,"Cermets and articles thereof, including waste and scrap.",2573001
+201512,8201,"Hand tools, the following : spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry.",73953464
+201512,8202,"Hand saws; blades for saws of all kinds (including slitting, slotting or toothless saw blades).",100001280
+201512,8203,"Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipecutters, bolt croppers, perforating punches and similar hand tools.",65489207
+201512,8204,"Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles.",73073345
+201512,8205,"Hand tools (including glaziers' diamonds), not elsewhere specified or included; blow lamps; vices, clamps and the like, other than accessories for and parts of, machinetools or waterjet cutting machines; anvils; portable forges; hand or pedaloperated grinding wheels with frameworks.",216148551
+201512,8206,"Tools of two or more of the headings 82.02 to 82.05, put up in sets for retail sale.",46642129
+201512,8207,"Interchangeable tools for hand tools, whether or not poweroperated, or for machinetools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving), including dies for drawing or extruding metal, and rock drilling or earth boring tools.",255915992
+201512,8208,"Knives and cutting blades, for machines or for mechanical appliances.",28736614
+201512,8209,"Plates, sticks, tips and the like for tools, unmounted, of cermets.",34207569
+201512,8210,"Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink.",17230409
+201512,8211,"Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 82.08, and blades therefor.",97390443
+201512,8212,Razors and razor blades (including razor blade blanks in strips).,45188838
+201512,8213,"Scissors, tailors' shears and similar shears, and blades therefor.",56534433
+201512,8214,"Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files).",74927711
+201512,8215,"Spoons, forks, ladles, skimmers, cakeservers, fishknives, butterknives, sugar tongs and similar kitchen or tableware.",177878072
+201512,8301,"Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal",441149643
+201512,8302,"Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hatracks, hatpegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal",939489725
+201512,8303,"Armoured or reinforced safes, strongboxes and doors and safe deposit lockers for strongrooms, cash or deed boxes and the like, of base metal",38499928
+201512,8304,"Filing cabinets, cardindex cabinets, paper trays, paper rests, pen trays, officestamp stands and similar office or desk equipment, of base metal, other than office furniture of heading 9403",12956239
+201512,8305,"Fittings for looseleaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in strips (for example, for offices, upholstery, packaging), of base metal",49199174
+201512,8306,"Bells, gongs and the like, nonelectric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal; mirrors of base metal",214921537
+201512,8307,"Flexible tubing of base metal, with or without fittings",22208658
+201512,8308,"Clasps, frames with clasps, buckles, buckleclasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing or clothing accessories, footwear, jewellery, wristwatches, books, awnings, leather goods, travel goods or saddlery or for other made up articles; tubular or bifurcated rivets, of base metal; beads and spangles, of base metal",75218507
+201512,8309,"Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal",30876719
+201512,8310,"Signplates, nameplates, addressplates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 9405",15231370
+201512,8311,"Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carbides; wire and rods, of agglomerated base metal powder, used for metal spraying",49310318
+201512,8401,"Nuclear reactors; fuel elements (cartridges), nonirradiated, for nuclear reactors; machinery and apparatus for isotopicseparation.",9600
+201512,8402,Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); superheated water boilers.,155425256
+201512,8403,Central heating boilers other than those of heading 8402.,14335181
+201512,8404,"Auxiliary plant for use with boilers of heading 84.02 or 84.03 (for example, economisers, superheaters, soot removers, gas recoverers); condensers for steam or other vapour power units.",62815927
+201512,8405,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers.",2447705
+201512,8406,Steam turbines and other vapour turbines.,57212258
+201512,8407,Sparkignition reciprocating or rotary internal combustion piston engines.,218224810
+201512,8408,Compressionignition internal combustion piston engines (diesel or semidiesel engines).,138027999
+201512,8409,Parts suitable for use solely or principally with the engines of heading 84.07 or 84.08.,456335298
+201512,8410,"Hydraulic turbines, water wheels, and regulators therefor.",26583730
+201512,8411,"Turbojets, turbopropellers and other gas turbines.",260168551
+201512,8412,Other engines and motors.,168353675
+201512,8413,"Pumps for liquids, whether or not fitted with a measuring device; liquid elevators.",621753339
+201512,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters.",1119085054
+201512,8415,"Air conditioning machines, comprising a motordriven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated.",932372812
+201512,8416,"Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates,mechanical ash dischargers and similar appliances.",17753547
+201512,8417,"Industrial or laboratory furnaces and ovens, including incinerators, nonelectric.",90605096
+201512,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading 84.15.",643446670
+201512,8419,"Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 85.14), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, nonelectric.",449657940
+201512,8420,"Calendering or other rolling machines, other than for metals or glass, and cylinders therefor.",7161308
+201512,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases.",505824730
+201512,8422,"Dish washing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heatshrink wrapping machinery); machinery for aerating beverages.",174047871
+201512,8423,"Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds.",116626823
+201512,8424,"Mechanical appliances (whether or not handoperated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines.",337101780
+201512,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks.,180138837
+201512,8426,"Ships' derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane.",192671506
+201512,8427,Forklift trucks; other works trucks fitted with lifting or handling equipment.,181425947
+201512,8428,"Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics).",372091941
+201512,8429,"Self-propelled bulldozers, angledozers, graders, levellers, machines and road rollers.",261104519
+201512,8430,"Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; piledrivers and pileextractors; snowploughs and snowblowers.",201260132
+201512,8431,Parts suitable for use solely or principally with the machinery of headings 84.25 to 84.30.,559640416
+201512,8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sportsground rollers.",68812908
+201512,8433,"Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 84.37.",190041608
+201512,8434,Milking machines and dairy machinery.,4229811
+201512,8435,"Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages.",2067864
+201512,8436,"Other agricultural, horticultural, forestry, poultrykeeping or beekeeping machinery, including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders.",51337723
+201512,8437,"Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables, other than farmtype machinery.",32781580
+201512,8438,"Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable fats or oils.",81290341
+201512,8439,Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard.,56648681
+201512,8440,"Bookbinding machinery, including booksewing machines.",2862606
+201512,8441,"Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds.",94049013
+201512,8442,"Machinery, apparatus and equipment (other than the machines of headings 84.56 to 84.65) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished).",13535593
+201512,8443,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines,whether or not combined; parts and accessories thereof.",1787377879
+201512,8444,"Machines for extruding, drawing, texturing or cutting man-made textile materials",13833834
+201512,8445,"Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weftwinding) machines and machines for preparing textile yarns for use on the machines of heading 84.46 or 84.47.",35115607
+201512,8446,Weaving machines (looms),31768253
+201512,8447,"Knitting machines, stitchbonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting.",82133307
+201512,8448,"Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or 84.47 (for example, dobbies, Jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 84.44, 84.45, 84.46 or 84.47 (for example, spindles and spindle flyers, card clothing, combs, extruding nipples, shuttles, healds and healdframes, hosiery needles).",46083853
+201512,8449,"Machinery for the manufacture or finishing of felt or 84.49 nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats.",14697130
+201512,8450,"Household or laundrytype washing machines, including machines which both wash and dry.",323256024
+201512,8451,"Machinery (other than machines of heading 84.50) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics.",62660759
+201512,8452,"Sewing machines, other than booksewing machines of heading 84.40; furniture, bases and covers specially designed for sewing machines; sewing machine needles.",153473688
+201512,8453,"Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines.",28179416
+201512,8454,"Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries.",43334903
+201512,8455,Metalrolling mills and rolls therefor.,74196810
+201512,8456,"Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electrodischarge, electrochemical, electron beam, ionicbeam or plasma arc processes; waterjet cutting machines.",58494772
+201512,8457,"Machining centres, unit construction machines (single station) and multistation transfer machines, for working metal.",17606513
+201512,8458,Lathes (including turning centres) for removing metal.,37481943
+201512,8459,"Machinetools (including waytype unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 84.58.",27992845
+201512,8460,"Machinetools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other heading 84.61.",26067254
+201512,8461,"Machinetools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cuttingoff and other machinetools working by removing metal or cermets, not elsewhere specified or included.",21471635
+201512,8462,"Machinetools (including presses) for working metal by forging, hammering or diestamping; machinetools (including presses) for working metal by bending, folding, straightening, flattening, shearing, punching or notching; presses for working metal or metal carbides, not specified above.",88523954
+201512,8463,"Other machinetools for working metal or cermets, without removing material.",18653426
+201512,8464,"Machinetools for working stone, ceramics, concrete, asbestoscement or like mineral materials or for cold working glass.",42788241
+201512,8465,"Machinetools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials.",110831765
+201512,8466,"Parts and accessories suitable for use solely or principally with the machines of headings 84.56 to 84.65, including work or tool holders, selfopening dieheads, dividing heads and other special attachments for the machines; tool holders for any type of tool for working in the hand.",89589431
+201512,8467,"Tools for working in the hand, pneumatic, hydraulic or with selfcontained electric or nonelectric motor.",751071475
+201512,8468,"Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 85.15; gasoperated surface tempering machines and appliances.",17102432
+201512,8469,-------,2541319
+201512,8470,"Calculating machines and pocketsize data recording, reproducing and displaying machines with calculating functions; accounting machines, postagefranking machines, ticketissuing machines and similar machines, incorporating a calculating device; cash registers.",143974762
+201512,8471,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in d form and machines for processing such data, not elsewhere specified or included.",13405959301
+201512,8472,"Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coinsorting machines, coincounting or wrapping machines, pencilsharpening machines, perforating or stapling machines).",142871855
+201512,8473,"Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 84.70 to 84.72.",3031299251
+201512,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand.",251350139
+201512,8475,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware.",19028517
+201512,8476,"Automatic goodsvending machines (for example, postage stamp, cigarette, food or beverage machines), including moneychanging machines.",21626511
+201512,8477,"Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter.",327815446
+201512,8478,"Machinery for preparing or making up tobacco, not specified or included elsewhere in this Chapter.",2092436
+201512,8479,"Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter.",386579480
+201512,8480,"Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics.",446889264
+201512,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressurereducing valves and thermostatically controlled valves.",1419693735
+201512,8482,Ball or roller bearings.,436536425
+201512,8483,"Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints).",604655631
+201512,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals.",42016948
+201512,8486,"Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in Note 9 (C) to this Chapter; parts and accessories.",185149372
+201512,8487,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter.",139714237
+201512,8501,Electric motors and generators (excluding generating sets).,983465233
+201512,8502,Electric generating sets and rotary converters.,367195814
+201512,8503,Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02.,416906852
+201512,8504,"Electrical transformers, static converters (for example, rectifiers) and inductors.",2494568087
+201512,8505,"Electromagnets; permanent magnets and articles intended to become permanent magnets after magnetisation; electromagnetic or permanent magnet chucks, clamps and similar holding devices; electromagnetic couplings, clutches and brakes; electromagnetic lifting heads.",232236851
+201512,8506,Primary cells and primary batteries.,227708169
+201512,8507,"Electric accumulators, including separators therefor, whether or not rectangular (including square).",1043113396
+201512,8508,Vacuum cleaners.,313357627
+201512,8509,"Electromechanical domestic appliances, with selfcontained electric motor, other than vacuum cleaners of heading 85.08.",453453133
+201512,8510,"Shavers, hair clippers and hairremoving appliances, with selfcontained electric motor.",108533954
+201512,8511,"Electrical ignition or starting equipment of a kind used for sparkignition or compressionignition internal combustion engines (for example, ignition magnetos, magnetodynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cutouts of a kind used in conjunction with such engines.",189491457
+201512,8512,"Electrical lighting or signalling equipment (excluding articles of heading 85.39), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles.",400567800
+201512,8513,"Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 85.12.",318532826
+201512,8514,Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss.,41310134
+201512,8515,"Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets.",115990910
+201512,8516,"Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electrothermic hairdressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric smoothing irons; other electrothermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 85.45.",1665243571
+201512,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 84.43, 85.25, 85.27 or 85.28.",22209042848
+201512,8518,"Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audiofrequency electric amplifiers; electric sound amplifier sets.",1539120772
+201512,8519,Sound recording or reproducing apparatus.,97769350
+201512,8521,"Video recording or reproducing apparatus, whether or not incorporating a video tuner.",826751863
+201512,8522,Parts and accessories suitable for use solely or principally with the apparatus of heading 85.19 or 85.21.,126169742
+201512,8523,"Discs, tapes, solidstate nonvolatile storage devices, .smart cards. and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37.",980683798
+201512,8525,"Transmission apparatus for radiobroadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders.",1310479014
+201512,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus.",271969401
+201512,8527,"Reception apparatus for radiobroadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock.",442769942
+201512,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radiobroadcast receivers or sound or video recording or reproducing apparatus.",2373077680
+201512,8529,Parts suitable for use solely or principally with the apparatus of headings 85.25 to 85.28.,1183523114
+201512,8530,"Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 86.08).",17675440
+201512,8531,"Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 85.12 or 85.30.",339613011
+201512,8532,"Electrical capacitors, fixed, variable or adjustable (preset).",1461863040
+201512,8533,"Electrical resistors (including rheostats and potentiometers), other than heating resistors.",312266249
+201512,8534,Printed circuits.,1255243433
+201512,8535,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 volts.",55507028
+201512,8536,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lampholders and other connectors, junction boxes), for a voltage not exceeding 1,000 volts; connectors for optical fibres, optical fibre bundles or cables.",1350393482
+201512,8537,"Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 85.17.",621371439
+201512,8538,Apparatus for protecting electrical circuits for a voltage ≤ 1000 V (excluding fuses and automatic circuit breakers),307627348
+201512,8539,"Electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc-lamps; light-emitting diode (LED) lamps",466647750
+201512,8540,"Thermionic, cold cathode or photocathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathoderay tubes, television camera tubes).",23023117
+201512,8541,"Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED); mounted piezo-electric crystals.",3826098619
+201512,8542,Electronic integrated circuits.,8562740023
+201512,8543,"Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this Chapter.",834082689
+201512,8544,"Insulated (including enamelled or anodised) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors.",2037865142
+201512,8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes.",79666826
+201512,8546,Electrical insulators of any material.,64418241
+201512,8547,"Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 85.46; electrical conduit tubing and joints therefor, of base metal lined with insulating material.",43408734
+201512,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or included elsewhere in this Chapter.",63185237
+201512,8601,Rail locomotives powered from an external source of electricity or by electric accumulators.,24736561
+201512,8602,Other rail locomotives; locomotive tenders.,5794344
+201512,8603,"Selfpropelled railway or tramway coaches, vans and trucks, other than those of heading 86.04.",143994377
+201512,8604,"Railway or tramway maintenance or service vehicles, whether or not selfpropelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles).",2114260
+201512,8605,"Railway or tramway passenger coaches, not selfpropelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not selfpropelled (excluding those of heading 86.04).",8762274
+201512,8606,"Railway or tramway goods vans and wagons, not selfpropelled.",42699189
+201512,8607,Parts of railway or tramway locomotives or rollingstock.,122617515
+201512,8608,"Railway or tramway track fixtures and fittings; mechanical 86.08 (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland parts of the foregoing.",19193866
+201512,8609,Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.,598716403
+201512,8701,Tractors (other than tractors of heading 87.09).,72905212
+201512,8702,"Motor vehicles for the transport of ten or more persons, including the driver.",197803500
+201512,8703,"Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing cars.",310069815
+201512,8704,Motor vehicles for the transport of goods.,390827501
+201512,8705,"Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concretemixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units).",148929210
+201512,8706,"Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05.",3586988
+201512,8707,"Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05.",16416639
+201512,8708,Parts and accessories of the motor vehicles of headings 87.01 to,2586038698
+201512,8709,"Works trucks, selfpropelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles.",4073289
+201512,8711,"Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without sidecars; sidecars.",686876486
+201512,8712,"Bicycles and other cycles (including delivery tricycles), not motorised.",276166886
+201512,8713,"Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled.",46468388
+201512,8714,Parts and accessories of vehicles of headings 87.11 to 87.13.,558104915
+201512,8715,Baby carriages and parts thereof.,109108773
+201512,8716,"Trailers and semitrailers; other vehicles, not mechanically propelled; parts thereof.",305387682
+201512,8801,"Balloons and dirigibles; gliders, hang gliders and other non powered aircraft.",193461
+201512,8802,"Other aircraft (for example, helicopters, aeroplanes); spacecraft (including satellites) and suborbital and spacecraft launch vehicles.",517051259
+201512,8803,Parts of goods of heading 88.01 or 88.02.,147261211
+201512,8804,Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto.,206498
+201512,8805,Aircraft launching gear; deckarrestor or similar gear; ground flying trainers; parts of the foregoing articles.,15452
+201512,8901,"Cruise ships, excursion boats, ferryboats, cargo ships, barges and similar vessels for the transport of persons or goods.",1739292887
+201512,8902,Fishing vessels; factory ships and other vessels for processing or preserving fishery products.,36968037
+201512,8903,Yachts and other vessels for pleasure or sports; rowing boats and canoes.,24758643
+201512,8904,Tugs and pusher craft.,131770447
+201512,8905,"Lightvessels, firefloats, dredgers, floating cranes and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms.",433598432
+201512,8906,"Other vessels, including warships and lifeboats other than rowing boats.",99725703
+201512,8907,"Other floating structures (for example, rafts, tanks, cofferdams, landingstages, buoys and beacons).",7382166
+201512,9001,"Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 85.44; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked.",493170394
+201512,9002,"Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked.",343278588
+201512,9003,"Frames and mountings for spectacles, goggles or the like, and parts thereof.",121049058
+201512,9004,"Spectacles, goggles and the like, corrective, protective or other.",303204195
+201512,9005,"Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radioastronomy.",31078086
+201512,9006,Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 85.39.,62474441
+201512,9007,"Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus.",12395512
+201512,9008,"Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers.",4611657
+201512,9010,"Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this Chapter; negatoscopes; projection screens.",9834618
+201512,9011,"Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection.",23415086
+201512,9012,Microscopes other than optical microscopes; diffraction apparatus.,2628630
+201512,9013,"Liquid crystal devices not constituting articles provided for more specifically in other headings; lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this Chapter.",3299773424
+201512,9014,Direction finding compasses; other navigational instruments and appliances.,24726990
+201512,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders.",78863599
+201512,9016,"Balances of a sensitivity of 5 cg or better, with or without weights.",4220598
+201512,9017,"Drawing, markingout or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in this Chapter.",75441624
+201512,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electromedical apparatus and sighttesting instruments.",531701894
+201512,9019,"Mechanotherapy appliances; massage apparatus; psychological aptitudetesting apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus.",242529550
+201512,9020,"Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters.",18220327
+201512,9021,"Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability.",135382014
+201512,9022,"Apparatus based on the use of Xrays or of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus, Xray tubes and other Xray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like.",183434266
+201512,9023,"Instruments, apparatus and models, designed for 90.23 demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses.",76408930
+201512,9024,"Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics).",8695278
+201512,9025,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments.",89070208
+201512,9026,"Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 90.14, 90.15, 90.28 or 90.32.",144335697
+201512,9027,"Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes.",190522806
+201512,9028,"Gas, liquid or electricity supply or production meters, including calibrating meters therefor.",116125433
+201512,9029,"Revolution counters, production counters, taximeters, mileometers, pedometers and the like; speed indicators and tachometers, other than those of heading 90.14 or 90.15; stroboscopes.",63354054
+201512,9030,"Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 90.28; instruments and apparatus for measuring or detecting alpha, beta, gamma, Xray, cosmic or other ionising radiations.",111132048
+201512,9031,"Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors.",308015100
+201512,9032,Automatic regulating or controlling instruments and apparatus.,304361168
+201512,9033,"Parts and accessories (not specified or included elsewhere in this Chapter) for machines, appliances, instruments or apparatus of Chapter 90.",47105877
+201512,9101,"Wristwatches, pocketwatches and other watches, including stopwatches, with case of precious metal or of metal clad with precious metal.",11374474
+201512,9102,"Wristwatches, pocketwatches and other watches, including stopwatches, other than those of heading 91.01.",285429236
+201512,9103,"Clocks with watch movements, excluding clocks of heading 91.04.",1118582
+201512,9104,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels.",405830
+201512,9105,Other clocks.,105728177
+201512,9106,"Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, timeregisters, timerecorders).",9132825
+201512,9107,Time switches with clock or watch movement or with synchronous motor.,5325813
+201512,9108,"Watch movements, complete and assembled.",13126783
+201512,9109,"Clock movements, complete and assembled.",4084087
+201512,9110,"Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements.",8593456
+201512,9111,Watch cases and parts thereof.,47373404
+201512,9112,"Clock cases and cases of a similar type for other goods of this Chapter, and parts thereof.",477408
+201512,9113,"Watch straps, watch bands and watch bracelets, and parts thereof.",61290313
+201512,9114,Other clock or watch parts.,40744788
+201512,9201,"Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments.",5168893
+201512,9202,"Other string musical instruments (for example, guitars, violins, harps).",35915644
+201512,9205,"Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs.",14882815
+201512,9206,"Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas).",11707727
+201512,9207,"Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions).",43287726
+201512,9208,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this Chapter; decoy calls of all kinds; whistles, call horns and other mouthblown sound signalling instruments.",6882033
+201512,9209,"Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds.",22584772
+201512,9303,"Other firearms and similar devices which operate by the firing of an explosive charge (for example, sporting shotguns and rifles, muzzleloading firearms, Very pistols and other devices designed to project only signal flares, pistols and revolvers for firing blank ammunition, captivebolt humane killers, linethrowing guns).",2251670
+201512,9304,"Other arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading 93.07.",8479318
+201512,9305,Parts and accessories of articles of headings 93.01 to 93.04.,1133474
+201512,9306,"Bombs, grenades, torpedoes, mines, missiles and similar munitions of war and parts thereof; cartridges and other ammunition and projectiles and parts thereof, including shot and cartridge wads.",485079
+201512,9307,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor.",1149167
+201512,9401,"Seats (other than those of heading 94.02), whether or not convertible into beds, and parts thereof.",2418196012
+201512,9402,"Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists' chairs); barbers' chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles.",68287164
+201512,9403,Other furniture and parts thereof.,2947406242
+201512,9404,"Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered.",683153267
+201512,9405,"Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included.",3419661560
+201512,9406,Prefabricated buildings.,133531984
+201512,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reducedsize (""scale"") models and similar recreational models, working or not; puzzles of all kinds.",1272082138
+201512,9504,"Video game consoles and machines, articles for funfair, table or parlour games, including pintables, billiards, special tables for casino games and automatic bowling alley equipment.",906163479
+201512,9505,"Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes.",104169749
+201512,9506,"Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including tabletennis) or outdoor games, not specified or included elsewhere in this Chapter; swimming pools and paddling pools.",1006442811
+201512,9507,"Fishing rods, fishhooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy birds?(other than those of heading 92.08 or 97.05) and similar hunting or shooting requisites.",128557264
+201512,9508,"Roundabouts, swings, shooting galleries and other fairground amusements; travelling circuses and travelling menageries; travelling theatres.",7199839
+201512,9601,"Worked ivory, bone, tortoiseshell, horn, antlers, coral, motherofpearl and other animal carving material, and articles of these materials (including articles obtained by moulding).",1068089
+201512,9602,"Worked vegetable or mineral carving material and articles of 96.02 these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes, and other moulded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 35.03) and articles of unhardened gelatin.",5302947
+201512,9603,"Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), handoperated mechanical floor sweepers, not motorised, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees).",391079857
+201512,9604,Hand sieves and hand riddles.,246303
+201512,9605,"Travel sets for personal toilet, sewing or shoe or clothes cleaning.",24354206
+201512,9606,"Buttons, pressfasteners, snapfasteners and pressstuds, button moulds and other parts of these articles; button blanks.",54243683
+201512,9607,Slide fasteners and parts thereof.,89000615
+201512,9608,"Ball point pens; felt tipped and other poroustipped pens and markers; fountain pens, stylograph pens and other pens; duplicating stylos; propelling or sliding pencils; penholders, pencilholders and similar holders; parts (including caps and clips) of the foregoing articles, other than those of heading 96.09.",188754904
+201512,9609,"Pencils (other than pencils of heading 96.08), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks.",64939670
+201512,9610,"Slates and boards, with writing or drawing surfaces, whether or not framed.",31991180
+201512,9611,"Date, sealing or numbering stamps, and the like (including devices for printing or embossing labels), designed for operating in the hand; handoperated composing sticks and hand printing sets incorporating such composing sticks.",4285149
+201512,9612,"Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; inkpads, whether or not inked, with or without boxes.",18379059
+201512,9613,"Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks.",77143846
+201512,9614,"Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof.",16067087
+201512,9615,"Combs, hairslides and the like; hairpins, curling pins, curling grips, haircurlers and the like, other than those of heading 85.16,and parts thereof.",130471111
+201512,9616,"Scent sprays and similar toilet sprays, and mounts and heads therefor; powderpuffs and pads for the application of cosmetics or toilet preparations.",40309182
+201512,9617,"Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners.",161173691
+201512,9618,Tailors' dummies and other lay figures; automata and other animated displays used for shop window dressing.,36104055
+201512,9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of any material.",165157677
+201512,9701,"Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 49.06 and other than handpainted or handdecorated manufactured articles; collages and similar decorative plaques.",27742665
+201512,9702,"Original engravings, prints and lithographs.",769
+201512,9703,"Original sculptures and statuary, in any material.",2717809
+201512,9704,"Postage or revenue stamps, stamppostmarks, firstday covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 49.07.",384406
+201512,9705,"Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, palaeontological, ethnographic or numismatic interest.",363382
+201512,9706,Antiques of an age exceeding one hundred years.,1875848
+201512,9801,Commodities not classified accroding to kind,11163610
+201512,9804,nan,23018703
