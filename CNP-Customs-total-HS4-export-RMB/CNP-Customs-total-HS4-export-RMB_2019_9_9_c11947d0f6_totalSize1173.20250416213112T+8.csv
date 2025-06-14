@@ -1,0 +1,1174 @@
+Date of data,Commodity code,Commodity,Renminbi Yuan
+201909,0102,Live bovine animals,34060974
+201909,0103,Live swine,239952707
+201909,0104,Live sheep and goats,960000
+201909,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",607005
+201909,0106,Other live animals,34800778
+201909,0202,"Meat of bovine animals, frozen",1188264
+201909,0203,"Meat of swine, fresh, chilled or frozen",104449114
+201909,0204,"Meat of sheep or goats, fresh, chilled or frozen",14183727
+201909,0205,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen",577619
+201909,0206,"Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen",168114
+201909,0207,"Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen",381567732
+201909,0208,"Other meat and edible meat offal, fresh, chilled or frozen",25404055
+201909,0210,"Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",1873401
+201909,0301,Live fish,295451377
+201909,0302,"Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304",65626752
+201909,0303,"Fish, frozen, excluding fish fillets and other fish meat of heading 0304",1662336734
+201909,0304,"Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen",2397979813
+201909,0305,"Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption",330874842
+201909,0306,"Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption",685115571
+201909,0307,"Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption",1613281582
+201909,0308,"Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption",54920379
+201909,0401,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter.",12400332
+201909,0402,"Milk and cream, concentrated or containing added sugar or other sweetening matter",5398106
+201909,0403,"Buttermilk, curdled milk and cream, yogurt, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa",5004145
+201909,0404,"Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included",880413
+201909,0405,Butter and other fats and oils derived from milk; dairy spreads,4782677
+201909,0406,Cheese and curd,64979
+201909,0407,"Birds' eggs, in shell, fresh, preserved or cooked",91413268
+201909,0408,"Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter",10212751
+201909,0409,atural honey,151336102
+201909,0410,"dible products of animal origin, not elsewhere specified or included",39307797
+201909,0501,"Human hair, unworked, whether or not washed or scoured; waste of human hair",14
+201909,0502,"Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair",143240382
+201909,0504,"Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",647153579
+201909,0505,"Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation;powder and waste of feathers or parts of feathers",364837862
+201909,0507,"Ivory, tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products",13436705
+201909,0508,"Coral and similar materials, unworked or simply prepared bunot otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttlebone, unworked or simply prepared bunot cut to shape, powder and waste thereof",5545562
+201909,0510,"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved",847930
+201909,0511,"Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption",122075161
+201909,0601,"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 12.12.",2899391
+201909,0602,"Other live plants (including their roots), cuttings and slips; mushroom spawn.",125601290
+201909,0603,"Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared.",70170480
+201909,0604,"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh,dried, dyed, bleached, impregnated or otherwise prepared",34120060
+201909,0701,"Potatoes, fresh or chilled.",355239202
+201909,0702,"Tomatoes, fresh or chilled.",137850658
+201909,0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled.",1666733300
+201909,0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.",490911082
+201909,0705,"Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled.",102041697
+201909,0706,"Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled.",319951419
+201909,0707,"Cucumbers and gherkins, fresh or chilled.",37262709
+201909,0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled.",24077537
+201909,0709,"Other vegetables, fresh or chilled.",539534871
+201909,0710,"Vegetables (uncooked or cooked by steaming or boiling in water),frozen.",685715006
+201909,0711,"Vegetables provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",93252941
+201909,0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared.",1247845301
+201909,0713,"Dried leguminous vegetables, shelled, whether or not skinned or split.",209370536
+201909,0714,"Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets; sago pith.",87146015
+201909,0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.",465240
+201909,0802,"Other nuts, fresh or dried, whether or not shelled or peeled.",415725739
+201909,0803,"Bananas, including plantains, fresh or dried.",14914165
+201909,0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.",26332034
+201909,0805,"Citrus fruit, fresh or dried.",383660955
+201909,0806,"Grapes, fresh or dried.",1404315046
+201909,0807,"Melons (including watermelons) and papaws (papayas), fresh.",248224803
+201909,0808,"Apples, pears and quinces, fresh.",1435670426
+201909,0809,"Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.",123578059
+201909,0810,"Other fruit, fresh.",488353181
+201909,0811,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",164322087
+201909,0812,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",15404704
+201909,0813,"Fruit, dried, other than that of headings 08.01 to 08.06; mixtures of nuts or dried fruits of this Chapter.",60926688
+201909,0814,"Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions.",4358892
+201909,0901,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion.",69898040
+201909,0902,"Tea, whether or not flavoured.",1200019682
+201909,0904,Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.,225634044
+201909,0906,Cinnamon and cinnamontree flowers.,94590050
+201909,0907,"loves (whole fruit, cloves and stems).",836072
+201909,0908,"Nutmeg, mace and cardamoms.",35868
+201909,0909,"Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries.",25132344
+201909,0910,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices.",421252212
+201909,1003,Barley,10222
+201909,1004,Oats,103351
+201909,1006,Rice.,303552078
+201909,1007,Grain sorghum.,6998904
+201909,1008,"Buckwheat, millet and canary seeds; other cereals.",19968182
+201909,1101,Wheat or meslin flour.,58160742
+201909,1102,Cereal flours other than of wheat or meslin.,711128
+201909,1103,"Cereal groats, meal and pellets.",14226
+201909,1104,"Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 10.06; germ of cereals, whole, rolled, flaked or ground.",22380233
+201909,1105,"Flour, meal, powder, flakes, granules and pellets of potatoes.",1484849
+201909,1106,"Flour, meal and powder of the dried leguminous vegetables of heading 07.13, of sago or of roots or tubers of heading 07.14 or of the products of Chapter 8.",20588634
+201909,1107,"Malt, whether or not roasted.",150939345
+201909,1108,tarches; inulin.,207736566
+201909,1109,"Wheat gluten, whether or not dried.",66700577
+201909,1201,"Soya beans, whether or not broken.",26897166
+201909,1202,"Groundnuts, not roasted or otherwise cooked, whether or not shelled or broken.",112156210
+201909,1204,"Linseed, whether or not broken.",560308
+201909,1205,"Rape or colza seeds, whether or not broken.",595224
+201909,1206,"Sunflower seeds, whether or not broken.",90431810
+201909,1207,"Other oil seeds and oleaginous fruits, whether or not broken.",97236715
+201909,1208,"Flours and meals of oil seeds or oleaginous fruits, other than those of mustard.",12909065
+201909,1209,"Seeds, fruit and spores, of a kind used for sowing.",48940361
+201909,1210,"Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin.",31695
+201909,1211,"lants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered.",540753177
+201909,1212,"Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhere specified or included.",222731368
+201909,1213,"Cereal straw and husks, unprepared, whether or not chopped,ground, pressed or in the form of pellets.",2419627
+201909,1214,"wedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets.",634802
+201909,1301,"Lac; natural gums, resins, gumresins and oleoresins (for example, balsams).",7472858
+201909,1302,"Vegetable saps and extracts; pectic substances, pectinates and pectates; agaragar and other mucilages and thickeners, whether or not modified, derived from vegetable products.",768214780
+201909,1401,"Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark).",38758164
+201909,1404,Vegetable products not elsewhere specified or included.,21658351
+201909,1502,"Fats of bovine animals, sheep or goats, other than those of heading 15.03.",1369208
+201909,1504,"ats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified.",81439611
+201909,1505,Wool grease and fatty substances derived therefrom (including lanolin).,20608535
+201909,1506,"Other animal fats and oils and their fractions, whether or not refined, but not chemically modified.",5164731
+201909,1507,"oyabean oil and its fractions, whether or not refined, but not chemically modified.",87322395
+201909,1508,"Groundnut oil and its fractions, whether or not refined, but not chemically modified.",6877088
+201909,1509,"Olive oil and its fractions, whether or not refined, but not chemically modified.",464389
+201909,1511,"Palm oil and its fractions, whether or not refined, but not chemically modified.",10586091
+201909,1512,"unflowerseed, safflower or cottonseed oil and fractions thereof, whether or not refined, but not chemically modified.",3416764
+201909,1514,"Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified.",2524374
+201909,1515,"Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified.",71675888
+201909,1516,"Animal or vegetable fats and oils and their fractions, partly or wholly hydrogenated, interesterified, reesterified or elaidinised, whether or not refined, but not further prepared.",4509700
+201909,1517,"Margarine; edible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats or oils or their fractions of heading 15.16.",18690407
+201909,1518,"Animal or vegetable fats and oils and their fractions, boiled, oxidised,dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 15.16; inedible mixtures or preparations of animal or vegetable fats or oils or of fractions of different fats or oils of this Chapter, not elsewhere specified or included.",380830840
+201909,1521,"egetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured.",28082134
+201909,1522,Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes.,1923010
+201909,1601,"Sausages and similar products, of meat, meat offal or blood; food preparations based on these products.",78970489
+201909,1602,"Other prepared or preserved meat, meat offal or blood.",965634953
+201909,1603,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.",10337005
+201909,1604,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs.,2252115639
+201909,1605,"rustaceans, molluscs and other aquatic invertebrates, prepared or preserved.",2285262195
+201909,1701,"Cane or beet sugar and chemically pure sucrose, in solid form.",66611683
+201909,1702,"Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring matter; artificial honey, whether or not mixed with natural honey; caramel.",454484662
+201909,1703,olasses resulting from the extraction or refining of sugar.,63784
+201909,1704,"ugar confectionery (including white chocolate), not containing cocoa.",648250591
+201909,1803,"Cocoa paste, whether or not defatted.",6407709
+201909,1804,"Cocoa butter, fat and oil.",29629801
+201909,1805,"Cocoa powder, not containing added sugar or other sweetening matter.",7596574
+201909,1806,hocolate and other food preparations containing cocoa.,240520072
+201909,1901,"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 04.01 to 04.04,not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally efatted basis, not elsewhere specified or included.",364329573
+201909,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",554570904
+201909,1903,"Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms.",14566871
+201909,1904,"repared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form or in the form of flakes or other worked grains (except flour, groats and meal), precooked, or otherwise prepared, not elsewhere specified or included.",150459587
+201909,1905,"read, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products.",305328377
+201909,2001,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid.",66688750
+201909,2002,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid.,421374839
+201909,2003,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid.",586714454
+201909,2004,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06.",225770709
+201909,2005,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 20.06.",1282873237
+201909,2006,"Vegetables, fruit, nuts, fruitpeel and other parts of plants, preserved by sugar (drained, glacé or crystallised).",154540139
+201909,2007,"Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter.",41284880
+201909,2008,"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included.",1388816360
+201909,2009,"ruit juices (including grape must) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter.",318520217
+201909,2101,"Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or mate; roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof",106107814
+201909,2102,"Yeasts (active or inactive); other singlecell microorganisms, dead (but not including vaccines of heading 30.02); prepared baking powders.",184386821
+201909,2103,"Sauce and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal, whether or not prepared, and mustard",753547691
+201909,2104,Soups and broths and preparations therefor; homogenised composite food preparations.,55905757
+201909,2105,"Ice cream and other edible ice, whether or not containing cocoa.",24974570
+201909,2106,Food preparations not elsewhere specified or included.,1199546575
+201909,2201,"Waters, including natural or artificial mineral waters andaerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow.",465272457
+201909,2202,"Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other nonalcoholic beverages, not including fruit or vegetable juices of heading 20.09.",141468880
+201909,2203,Beer made from malt.,174082527
+201909,2204,"Wine of fresh grapes, including fortified wines; grape must other than that of heading 20.09.",49553626
+201909,2205,Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances.,473310
+201909,2206,"Other fermented beverages (for example, cider, perry, mead, saké); mixtures of fermented beverages and mixtures of fermented beverages and nonalcoholic beverages, not elsewhere specified or included.",17085178
+201909,2207,"Undenatured ethyl alcohol of an alcoholic strength by volume of 80% vol.or higher; ethyl alcohol and other spirits, denatured, of any strength.",12007283
+201909,2208,"Undenatured ethyl alcohol of an alcoholic strength by volume of Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol.; spirits, liqueurs and other spirituous beverages.",665857115
+201909,2209,Vinegar and substitutes for vinegar obtained from acetic acid.,11857790
+201909,2302,"Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants.",9728424
+201909,2303,"Residues of starch manufacture and similar residues, beetpulp, bagasse and other waste of sugar manufacture, brewing ordistilling dregs and waste, whether or not in the form of pellets.",126561820
+201909,2304,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil.",185421132
+201909,2306,"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils,other than those of heading 23.04 or 23.05.",20413156
+201909,2308,"Vegetable materials and vegetable waste, vegetable residues and byproducts, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included.",50827585
+201909,2309,Preparations of a kind used in animal feeding.,1115525693
+201909,2401,Unmanufactured tobacco; tobacco refuse.,251341358
+201909,2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes.",442796120
+201909,2403,Other manufactured tobacco and manufactured tobacco substitutes; “homogenised” or reconstituted” tobacco; tobacco extracts and essences.,127233606
+201909,2501,"Salts, incl. table salt and denatured salt, and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing agents; sea water",42226993
+201909,2502,Unroasted iron pyrites.,9190129
+201909,2503,"Sulphur of all kinds (excluding sublimed sulphur, precipitated sulphur and colloidal sulphur)",81821
+201909,2504,Natural graphite.,175388689
+201909,2505,"Natural sands of all kinds, whether or not coloured, other than metalbearing sands of Chapter 26.",5021543
+201909,2506,"Quartz (excluding natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a square or rectangular shape",47658856
+201909,2507,"Kaolin and other kaolinic clays, whether or not calcined",67106750
+201909,2508,"Other clays (not including expanded clays of heading 68.06), andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earths.",155602156
+201909,2509,Chalk.,1297446
+201909,2511,"Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 28.16.",38775794
+201909,2512,"Siliceous fossil meals, e.g. kieselguhr, tripolite and diatomite, and similar siliceous earths, whether or not calcined, of an apparent specific gravity of 1 or less.",5536087
+201909,2513,"Pumice stone; emery; natural corundum, natural garnet and other natural abrasives, whether or not heat-treated",36092359
+201909,2514,"Slate, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a square or rectangular shape; slate powder and slate refuse",13050133
+201909,2515,"Marble, travertine, ecaussine and other calcareous monumental or building stone of an apparent specific gravity of 2.5 or more, and alabaster, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",5867968
+201909,2516,"Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.",9602375
+201909,2517,"Pebbles, gravel, broken or crushed stone, for concrete aggregates, for road metalling or for railway ballast, shingle and flint, whether or not heat-treated; macadam of slag, dross or similar industrial waste, whether or not incorporating the materials cited in the first part of the heading; tarred macadam; granules, chippings and powder, of stones of heading 2515 and 2516, whether or not heat-treated",232656772
+201909,2518,"Dolomite, whether or not calcined or sintered, including dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; dolomite ramming mix.",22177308
+201909,2519,"Natural magnesium carbonate ""magnesite""; fused magnesia; dead-burned ""sintered"" magnesia, whether or not containing small quantities of other oxides added before sintering; other magnesium oxide, whether or not pure",523899344
+201909,2520,"Gypsum; anhydrite; plasters consisting of calcined gypsum or calcium sulphate, whether or not coloured, with or without small quantities of accelerators or retarders",9053671
+201909,2521,"Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement",1234081
+201909,2522,"Quicklime, slaked lime and hydraulic lime (excluding pure calcium oxide and calcium hydroxide)",12623530
+201909,2523,"Portland cement, aluminous cement, slagcement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers.",190033771
+201909,2524,Asbestos.,10102542
+201909,2525,"Mica, including splittings; mica waste.",32387307
+201909,2526,"Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; talc.",86676238
+201909,2528,"Natural borates and concentrates thereof (whether or not calcined), but not including borates separated from natural brine; natural boric acid containing not more than 85% of H3BO3 calculated on the dry weight.",495881
+201909,2529,"Feldspar; leucite, nepheline and nepheline syenite; fluorspar.",55640518
+201909,2530,Mineral substances not elsewhere specified or included.,91798420
+201909,2601,"Iron ores and concentrates, including roasted iron pyrites.",1905744448
+201909,2602,"Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20% or more,calculated on the dry weight.",2812242
+201909,2603,Copper ores and concentrates.,2970857
+201909,2605,Cobalt ores and concentrates.,77548
+201909,2606,Aluminium ores and concentrates.,4177935
+201909,2610,Chromium ores and concentrates.,1133970
+201909,2613,Molybdenum ores and concentrates.,25892287
+201909,2614,Titanium ores and concentrates.,16832806
+201909,2615,"Niobium, tantalum, vanadium or zirconium ores and concentrates.",11514060
+201909,2617,Other ores and concentrates.,9735957
+201909,2618,Granulated slag (slag sand) from the manufacture of iron or steel.,12814
+201909,2619,"Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel.",1752567
+201909,2620,"Slag, ash and residues (other than from the manufacture of iron or steel) containing metals, arsenic or their compounds.",12978493
+201909,2621,"Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste.",59721245
+201909,2701,Mituminous substances; mineral waxes,291746012
+201909,2702,"ignite, whether or not agglomerated, excluding jet.",371131
+201909,2703,"Peat (including peat litter), whether or not agglomerated.",158052
+201909,2704,"Coke and semicoke of coal, of lignite or of peat, whether or not agglomerated; retort carbon.",680328041
+201909,2707,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents,5518330
+201909,2708,"Pitch and pitch coke, obtained from coal tar or from other mineral tars",318399595
+201909,2709,"Petroleum oils and oils obtained from bituminous minerals, crude.",292547794
+201909,2710,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils.",22784664403
+201909,2711,Petroleum gases and other gaseous hydrocarbons.,1641688306
+201909,2712,"Petroleum jelly, paraffin wax, micro- crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured",267097906
+201909,2713,"Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals.",428370365
+201909,2714,"Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks",354772
+201909,2715,"Bituminous mastics, cut-backs and other bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch(for example, bituminous mastics, cutbacks).",4410168
+201909,2716,Electrical energy. (optional heading),1058714602
+201909,2801,"Fluorine, chlorine, bromine and iodine",700843
+201909,2802,"Sulphur, sublimed or precipitated; colloidal sulphur.",69024
+201909,2803,Carbon (carbon blacks and other forms of carbon not elsewhere specified or included).,488129042
+201909,2804,"ydrogen, rare gases and other nonmetals.",915747347
+201909,2805,"Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed; mercury",149065676
+201909,2806,"Hydrogen chloride ""hydrochloric acid""; chlorosulphuric acid",3277210
+201909,2807,Sulphuric acid; oleum.,6762423
+201909,2808,Nitric acid; sulphonitric acids.,5531241
+201909,2809,"Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined",285470569
+201909,2810,Oxides of boron; boric acids.,1888957
+201909,2811,Other inorganic acids and other inorganic oxygen compounds of nonmetals.,602910748
+201909,2812,Halides and halide oxides of nonmetals.,56299142
+201909,2813,Sulphides of non-metals; commercial phosphorus trisulphide,6177158
+201909,2814,"Ammonia, anhydrous or in aqueous solution.",1856164
+201909,2815,"Sodium hydroxide (caustic soda), potassium hydroxide (caustic potash); peroxides of sodium or potassium",266035608
+201909,2816,"Oydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium.",22085969
+201909,2817,Zinc oxide; zinc peroxide.,25612598
+201909,2818,"Artificial corundum, whether or not chemically defined;aluminium oxide; aluminium hydroxide.",558543466
+201909,2819,Chromium oxides and hydroxides,15982498
+201909,2820,Manganese oxides.,53656216
+201909,2821,Iron oxides and hydroxides; earth colours containing 70% or more by weight of combined iron evaluated as Fe2O3.,167944634
+201909,2822,Cobalt oxides and hydroxides; commercial cobalt oxides.,97500176
+201909,2823,Titanium oxides.,76912391
+201909,2824,Lead oxides; red lead and orange lead.,998811
+201909,2825,"Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides.",849245757
+201909,2826,"Hluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts.",210678920
+201909,2827,"Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides",298019331
+201909,2828,Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites,106003051
+201909,2829,Chlorates and perchlorates; bromates and perbromates; iodates and periodates,26188508
+201909,2830,"Sulphides; polysulphides, whether or not chemically defined",58075254
+201909,2831,Dithionites and sulfoxylates,38326471
+201909,2832,Sulphites; thiosulphates,67116210
+201909,2833,Sulphates; alums; peroxosulphates (persulphates),633747350
+201909,2834,Nitrites; nitrates.,118697749
+201909,2835,"Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined.",532850190
+201909,2836,"Carbonates; peroxocarbonates ""percarbonates""; commercial ammonium carbonate containing ammonium carbamate",537603915
+201909,2837,"Cyanides, cyanide oxides and complex cyanides.",182437057
+201909,2839,Silicates; commercial alkali metal silicates.,77609349
+201909,2840,Borates; peroxoborates (perborates).,12073265
+201909,2841,Salts of oxometallic or peroxometallic acids.,251757387
+201909,2842,"Salts of inorganic acids or peroxoacids, incl. aluminosilicates whether or not chemically defined (excluding of oxometallic or peroxometallic acids and azides, and inorganic or organic compounds of mercury)",322159513
+201909,2843,"Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals.",139877383
+201909,2844,"Radioactive chemical elements and radioactive isotopes, incl. their fissile or fertile chemical elements and isotopes, and their compounds; mixtures and residues containing these products",2437473
+201909,2845,"Non-radioactive isotopes; inorganic or organic compounds of such isotopes, whether or not chemically defined",16016692
+201909,2846,"Compounds, inorganic or organic, of rareearth metals, of yttrium or of scandium or of mixtures of these metals.",153794022
+201909,2847,"Hydrogen peroxide, whether or not solidified with urea.",4538908
+201909,2849,"Carbides, whether or not chemically defined",308001081
+201909,2850,"Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 28.49.",70739234
+201909,2853,"Inorganic compounds, incl. distilled or conductivity water and water of similar purity, n.e.s.; liquid air, whether or not rare gases have been removed; compressed air; amalgams (excluding amalgams of precious metals)",714124577
+201909,2901,Acyclic hydrocarbons.,50804908
+201909,2902,Cyclic hydrocarbons.,253148955
+201909,2903,Halogenated derivatives of hydrocarbons,1083172008
+201909,2904,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons,whether or not halogenated.",115197707
+201909,2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives.",729181230
+201909,2906,"Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives.",346032863
+201909,2907,henols; phenolalcohols.,191276530
+201909,2908,"Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenolalcohols.",44834119
+201909,2909,"Others, etheralcohols, etherphenols, etheralcoholphenols, alcohol peroxides, ether peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives.",519813902
+201909,2910,"Epoxides, epoxyalcohols, epoxyphenols and epoxyethers, with a threemembered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",53746658
+201909,2911,"Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",7665394
+201909,2912,"Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde.",261462701
+201909,2913,"Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading 29.12.",24872938
+201909,2914,"Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives.",695743397
+201909,2915,"Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",1121698167
+201909,2916,"Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",885958897
+201909,2917,"Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",923775169
+201909,2918,"arboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives.",1269175733
+201909,2919,"Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives.",274907069
+201909,2920,"Esters of other inorganic acids of nonmetals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives.",156821125
+201909,2921,Amine-function compounds.,1068533925
+201909,2922,Oxygenfunction aminocompounds.,2061823617
+201909,2923,"uaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined.",251407884
+201909,2924,arboxyamidefunction compounds; amidefunction compounds of carbonic acid.,992765233
+201909,2925,arboxyimidefunction compounds (including saccharin and its salts) and iminefunction compounds.,213032763
+201909,2926,Nitrilefunction compounds.,689709637
+201909,2927,"Diazo, azo or azoxycompounds.",107543534
+201909,2928,Organic derivatives of hydrazine or of hydroxylamine.,79966521
+201909,2929,Compounds with other nitrogen function.,447146834
+201909,2930,Organo-sulphur compounds.,1006476960
+201909,2931,ther organoinorganic compounds.,1258013904
+201909,2932,Heterocyclic compounds with oxygen heteroatom(s) only.,1597565690
+201909,2933,Heterocyclic compounds with nitrogen heteroatom(s) only.,4846933426
+201909,2934,"ucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds.",1886080448
+201909,2935,Sulphonamides.,427596108
+201909,2936,"rovitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent.",1229165288
+201909,2937,"ormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; derivatives and structural analogues thereof, including chain modified polypeptides, used primarily as hormones.",585219558
+201909,2938,"Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.",403968084
+201909,2939,"Alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives.",101372214
+201909,2940,"Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products of heading 29.37, 29.38 or 29.39.",74155047
+201909,2941,Antibiotics,1812694952
+201909,2942,Other organic compounds.,33975616
+201909,3001,"Glands and other organs for organotherapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for organotherapeutic uses; heparin and its salts; other human or animal substances prepared for therapeutic or prophylactic uses, not elsewhere specified or included.",708137159
+201909,3002,"Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera and other blood fractions and immunological products, whether or not modified or obtained by means of biotechnological processes; vaccines, toxins, cultures of micro-organisms (excluding yeasts) and similar products",346626655
+201909,3003,"Medicaments (excluding goods of heading 30.02, 30.05 or 30.06) consisting of two or more constituents which have been mixed together for therapeuti or prophylactic uses, not pu up in measured doses or in forms or packings for retail sale.",444693735
+201909,3004,"Medicaments consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured doses ""incl. those in the form of transdermal administration"" or in forms or packings for retail sale (excluding goods of heading 3002, 3005 or 3006)",2131204590
+201909,3005,"adding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or put up in forms or packings for retail sale for medical, surgical, dental or veterinary purposes.",950394471
+201909,3006,Pharmaceutical goods specified in Note 4 to this Chapter.,718301925
+201909,3101,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products",6114806
+201909,3102,"Mineral or chemical fertilisers, nitrogenous.",1754234498
+201909,3103,"Mineral or chemical fertilisers, phosphatic.",299227297
+201909,3104,"Mineral or chemical fertilisers, potassic.",147604658
+201909,3105,"Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this Chapter in tablets or similar forms or in packages of a gross weight not exceeding 10 kg.",2402491519
+201909,3201,"Tanning extracts of vegetable origin; tannins and their salts,",1327493
+201909,3202,"Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic preparations for pre-tanning",14248788
+201909,3203,"Colouring matter of vegetable or animal origin (including dyeinextracts but excluding animal black), whether or not chemicalldefined; preparations as specified in Note 3 to this Chapter baseon colouring matter of vegetable or animal origin.",67385059
+201909,3204,"Synthetic organic colouring matter, whether or not chemically defined; preparations based on synthetic organic colouring matter of a kind used to dye fabrics or produce colorant preparations; synthetic organic products of a kind used as fluorescent brightening agents or as luminophores, whether or not chemically defined (excluding preparations of heading 3207, 3208, 3209, 3210, 3213 and 3215)",1574400536
+201909,3205,Colour lakes; preparations as specified in Note 3 to this Chapter based on colour lakes.,1028799
+201909,3206,"Other colouring matter; preparations as specified in Note 3 to this Chapter, other than those of heading 32.03, 32.04 or 32.05; inorganic products of a kind used as luminophores, whether or not chemically defined.",1483595377
+201909,3207,"Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a kind used in the ceramic, enamelling or glass industry; glass frit and other glass, in the form of powder, granules or flakes.",180583341
+201909,3208,"Paints and varnishes, incl. enamels and lacquers, based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium; solutions of products of headings 3901 to 3913 in volatile organic solvents, containing > 50% solvent by weight (excluding solutions of collodion)",254249894
+201909,3209,"Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium.",87870266
+201909,3210,"Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather.",13841203
+201909,3211,Prepared driers.,7971839
+201909,3212,"Pigments (including metallic powders and flakes) dispersed in nonaqueous media, in liquid or paste form, of a kind used in the manufacture of paints (including enamels); stamping foils; dyes and other colouring matter put up in forms or packings for retail sale.",35792722
+201909,3213,"Artists', students' or signboard painters' colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar forms or packings.",213517646
+201909,3214,"Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings; non-refractory surfacing preparations for fa?ades, indoor walls, floors, ceilings or the like",166431205
+201909,3215,"Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid.",168500723
+201909,3301,"Essential oils, whether or not terpeneless, incl. concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, fixed oils, waxes or the like, obtained by enfleurage or maceration; terpenic by-products of the deterpenation of essential oils; aqueous distillates and aqueous solutions of essential oils",175656184
+201909,3302,"Mixtures of odoriferous substances and mixtures, incl. alcoholic solutions, based on one or more of these substances, of a kind used as raw materials in industry; other preparations based on odoriferous substances, of a kind used for the manufacture of beverages",217650187
+201909,3303,Perfumes and toilet waters.,137455272
+201909,3304,"Beauty or makeup preparations and preparations for the care of the skin (other thanmedicaments), including sunscreen or sun tan preparations; manicure or pedicure preparations.",2065207575
+201909,3305,Preparations for use on the hair.,190664181
+201909,3306,"Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages.",311820679
+201909,3307,"Shaving preparations, incl. pre-shave and aftershave products, personal deodorants, bath and shower preparations, depilatories and other perfumery, toilet or cosmetic preparations, n.e.s.; prepared room deodorisers, whether or not perfumed or having disinfectant properties",998049190
+201909,3401,"Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap; organic surface-active products and preparations for washing the skin, in the form of liquid or cream and put up for retail sale, whether or not containing soap; paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent",378702831
+201909,3402,"Organic surfaceactive agents (other than soap); surfaceactive preparations, washing preparations (including auxiliary washing preparations) and cleaning preparations, whether or not containing soap,other than those of heading 34.01.",1340860888
+201909,3403,"Lubricant preparations, incl. cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release preparations based on lubricants; textile lubricant preparations and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials (excluding preparations containing, as basic constituents, ≥ 70% petroleum oil or bituminous mineral oil by weight)",119275753
+201909,3404,Artificial waxes and prepared waxes.,46873062
+201909,3405,"Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading 34.04.",82446564
+201909,3406,"Candles, tapers and the like.",456001113
+201909,3407,"Modelling pastes, including those put up for children's amusement; preparations known as “dental wax”or as “dental impression compounds”, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms; other preparations for use in dentistry, with a basis of plaster (of calcined gypsum or calcium sulphate).",189030613
+201909,3501,"Casein, caseinates and other casein derivatives; casein glues.",3594471
+201909,3502,"Albumins (including concentrates of two or more whey proteins, containing by weight more than 80% whey proteins, calculated on the dry matter), albuminates and other albumin derivatives.",79002
+201909,3503,"Gelatin (including gelatin in rectangular (including square) sheets, whether or not surfaceworked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01.",86045286
+201909,3504,"Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed.",285056149
+201909,3505,"Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches.",55426997
+201909,3506,"Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg.",1233496336
+201909,3507,nzymes; prepared enzymes not elsewhere specified or included.,221224970
+201909,3601,Propellent powders.,9435682
+201909,3602,"Prepared explosives, other than propellent powders.",12301270
+201909,3603,Safety fuses; detonating fuses; percussion or detonating caps; igniters; electric detonators.,30126148
+201909,3604,"Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles.",718158395
+201909,3605,"Matches, other than pyrotechnic articles of heading 36.04.",3454455
+201909,3606,Ferrocerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in Note 2 to this Chapter.,11305734
+201909,3701,"Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat, sensitised, unexposed, whether or not in packs.",349479596
+201909,3702,"Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed.",59925768
+201909,3703,"photographic paper, paperboard and textiles, sensitised,unexposed.",22117785
+201909,3705,"Photographic plates and film, exposed and developed, other than cinematographic film.",425847
+201909,3707,"Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up in measured portions or put up for retail sale in a form ready for use.",175219314
+201909,3801,"Artificial graphite; colloidal or semicolloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other semimanufactures.",454393807
+201909,3802,"ctivated carbon; activated natural mineral products; animal black, including spent animal black.",284815755
+201909,3803,"Tall oil, whether or not refined.",306516
+201909,3804,"Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding tall oil of heading 38.03.",7843020
+201909,3805,"Gum, wood or sulphate turpentine and other terpenic oils produced by the distillation or other treatment of coniferous woods; crude dipentene; sulphite turpentine and other crude para-cymene; pine oil containing alpha-terpineol as the main constituent",12771376
+201909,3806,"Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums.",108114050
+201909,3807,"Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch.",2229360
+201909,3808,"Insecticides, rodenticides, fungicides, herbicides, antisprouting products and plantgrowth regulators, disinfectants and similar products, put up in forms or packings for retail sale or as preparations or articles (for example, sulphurtreated bands, wicks and candles, and flypapers).",2499848106
+201909,3809,"Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a kind used in the textile, paper, leather or like industries, not elsewhere specified or included.",145987967
+201909,3810,"Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding powders and pastes consisting of metal and other materials; preparations of a kind used as cores or coatings for welding electrodes or rods.",71787691
+201909,3811,"ntiknock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anticorrosive preparations and other prepared additives, for mineral oils (including gasoline) or for other liquids used for the same purposes as mineral oils.",120409136
+201909,3812,"Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; antioxidising preparations and other compound stabilisers for rubber or plastics.",423405284
+201909,3813,Preparations and charges for fireextinguishers; charged fireextinguishing grenades.,19496433
+201909,3814,"Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers.",24333082
+201909,3815,"Reaction initiators, reaction accelerators and catalytic preparations, not elsewhere specified or included.",362432058
+201909,3816,"Refractory cements, mortars, concretes and similar compositions, other than products of heading 38.01.",257241568
+201909,3817,"Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading 27.07 or 29.02.",205863941
+201909,3818,"Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics. form of",1358854577
+201909,3819,"Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals.",4453043
+201909,3820,Antifreezing preparations and prepared deicing fluids.,14455786
+201909,3821,"Prepared culture media for the development or maintenance of microorganisms (including viruses and the like) or of plant, human or animal cells.",8106416
+201909,3822,"Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, other than those of heading 30.02 or 30.06; certified reference materials.",186034845
+201909,3823,Industrial monocarboxylic fatty acids; acid oils from refining;industrial fatty alcohols.,24802948
+201909,3824,"Prepared binders for foundry moulds or cores; chemical products and preparations for the chemical or allied industries, incl. mixtures of natural products, n.e.s.",2446356719
+201909,3825,"Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste; sewage sludge; other wastes specified in Note 6 to this Chapter.",5489549
+201909,3826,"Biodiesel and mixtures thereof, not containing or containing less than 70% by weight of petroleum oils or oils obtained from bituminous minerals.",387882820
+201909,3901,"Polymers of ethylene, in primary forms.",564225153
+201909,3902,"Polymers of propylene or of other olefins, in primary forms.",324517304
+201909,3903,"Polymers of styrene, in primary forms.",316942407
+201909,3904,"Polymers of vinyl chloride or of other halogenated olefins, in primary forms.",696979378
+201909,3905,"Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms.",239362845
+201909,3906,crylic polymers in primary forms.,606865856
+201909,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms.",3295538057
+201909,3908,Polyamides in primary forms.,473926985
+201909,3909,"minoresins, phenolic resins and polyurethanes, in primary forms.",931194668
+201909,3910,Silicones in primary forms.,380668305
+201909,3911,"etroleum resins, coumaroneindene resins, polyterpenes, polysulphides, polysulphones and other products specified in Note 3 to this Chapter, not elsewhere specified or included, in primary forms.",388530947
+201909,3912,"Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms.",354486848
+201909,3913,"Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural rubber), not elsewhere specified or included, in primary forms.",292734766
+201909,3914,"Ionexchangers based on polymers of headings 39.01 to 39.13, in primary forms.",174960806
+201909,3915,"Waste, parings and scrap, of plastics.",29690442
+201909,3916,"Monofilament of which any crosssectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surfac worked but not otherwise worked, of plastics.",309271762
+201909,3917,"Tubes, pipes and hoses, and fittings therefor (for example, joints,elbows, flanges), of plastics.",1601873157
+201909,3918,"Floor coverings of plastics, whether or not selfadhesive, in rolls or in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter.",3466208676
+201909,3919,"Selfadhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls.",2041101088
+201909,3920,"Other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, supported or similarly combined with other materials.",4022131210
+201909,3921,"Other plates, sheets, film, foil and strip, of plastics.",1635715774
+201909,3922,"Baths, showerbaths, sinks, washbasins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics.",581193693
+201909,3923,"Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics.",5665051676
+201909,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics.",5828580349
+201909,3925,"Builders' ware of plastics, not elsewhere specified or included.",1190303541
+201909,3926,Other articles of plastics and articles of other materials of headings 39.01 to 39.14.,12704485495
+201909,4001,"Natural rubber, balata, guttapercha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip.",5157819
+201909,4002,"Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 40.01 with any product of this heading, in primary forms or in plates, sheets or strip.",416638393
+201909,4003,"Reclaimed rubber in primary forms or in plates, sheets or strip.",53009448
+201909,4004,"Waste, parings and scrap of rubber (other than hard rubber)and powders and granules obtained therefrom.",5103379
+201909,4005,"ompounded rubber, unvulcanised, in primary forms or in plates, sheets or strip.",46856883
+201909,4006,"Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber.",6808025
+201909,4007,Vulcanised rubber thread and cord.,52014604
+201909,4008,"lates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber.",186635499
+201909,4009,"Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges).",549438092
+201909,4010,"Conveyor or transmission belts or belting, of vulcanised rubber.",564198544
+201909,4011,"New pneumatic tyres, of rubber.",8749357891
+201909,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber.",92379723
+201909,4013,"Inner tubes, of rubber.",280033225
+201909,4014,"Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber.",111669649
+201909,4015,"Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber.",448285949
+201909,4016,Other articles of vulcanised rubber other than hard rubber.,1485058176
+201909,4017,"Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber.",20243845
+201909,4101,"Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchmentdressed or further prepared), whether or not dehaired or split.",7390180
+201909,4102,"Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment dressed or further prepared), whether or not with wool on or split, other than those excluded by Note 1 (c) to this Chapter.",3033728
+201909,4104,"Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared.",12895381
+201909,4105,"Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared.",15645825
+201909,4106,"Tanned or crust hides and skins of other animals, without wool whether or not split, but not further prepared.",12241052
+201909,4107,"Leather further prepared after tanning or crusting, including parchmentdressed leather, of bovine (including buffalo) or equine animals, without hair on, whether or not split, other than leather of heading 41.14.",275406660
+201909,4112,"Leather further prepared after tanning or crusting, including parchmentdressed leather, of sheep or lamb, without wool on, whether or not split, other than leather of heading 41.14.",6550013
+201909,4113,"Leather further prepared after tanning or crusting, including parchmentdressed leather, of other animals, without wool or hair on, whether or not split, other than leather of heading 41.14.",30888684
+201909,4114,Chamois (including combination chamois) leather; patentleather and patent laminated leather; metallised leather.,8410842
+201909,4115,"Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of composition leather, not suitable for the manufacture of leather articles; leather dust, powder and flour.",21574294
+201909,4201,"Saddlery and harness for any animal, incl. traces, leads, knee pads, muzzles, saddle cloths, saddlebags, dog coats and the like, of any material",510480298
+201909,4202,"Trunks, suitcases, vanitycases, executivecases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travellingbags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shoppingbags, wallets, purses, mapcases, cigarettecases, tobaccopouches, tool bags, sports bags, bottlecases, jewellery boxes, powderboxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper.",15286344966
+201909,4203,"Articles of apparel and clothing accessories, of leather or of composition leather.",745245448
+201909,4205,Other articles of leather or of composition leather.,375554564
+201909,4206,"Articles of gut (other than silkworm gut), of goldbeater's skin, of bladders or of tendons.",73
+201909,4301,"Raw furskins, incl. heads, tails, paws and other pieces or cuttings suitable for use in furriery (excluding raw hides and skins of heading 4101, 4102 or 4103)",1101232
+201909,4302,"Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials) other than those of heading 43.03.",60234664
+201909,4303,"rticles of apparel, clothing accessories and other articles of furskin.",4024388436
+201909,4304,Artificial fur and articles thereof.,56529796
+201909,4401,"Fuel wood, in logs, billets, twigs, faggots or similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms",5756657
+201909,4402,"Wood charcoal (including shell or nut charcoal), whether or notagglomerated.",104004424
+201909,4404,"Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walkingsticks,umbrellas, tool handles or the like; chipwood and the like.",1724900
+201909,4405,Wood wool; wood flour.,1091825
+201909,4406,Railway or tramway sleepers (crossties) of wood.,5810362
+201909,4407,"Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or endjointed, of a thickness exceeding 6 mm.",96076573
+201909,4408,"Sheets for veneering, incl. those obtained by slicing laminated wood, for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness of ≤ 6 mm",252540135
+201909,4409,"Wood, incl. strips and friezes for parquet flooring, not assembled, continuously shaped ""tongued, grooved, rebated, chamfered, V-jointed beaded, moulded, rounded or the like"" along any of its edges, ends or faces, whether or not planed, sanded or end-jointed",133091201
+201909,4410,"Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances.",52846597
+201909,4411,"Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances.",600495906
+201909,4412,"Plywood, veneered panels and similar laminated wood.",2578890669
+201909,4413,"Densified wood, in blocks, plates, strips or profile shapes.",7813439
+201909,4414,"Wooden frames for paintings, photographs, mirrors or similar objects.",290528758
+201909,4415,"Packing cases, boxes, crates, drums and similar packings, of wood; cabledrums of wood; pallets, box pallets and other load boards,of wood; pallet collars of wood.",45508219
+201909,4416,"Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including staves.",1916965
+201909,4417,"Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood.",59663730
+201909,4418,"Builders' joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes.",665306999
+201909,4419,"Tableware and kitchenware, of wood.",562137978
+201909,4420,"Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture (excluding furniture, lighting fixtures and parts thereof)",752260091
+201909,4421,Other articles of wood.,1678537267
+201909,4501,"Natural cork, raw or merely surface-worked or otherwise cleaned; cork waste; crushed, powdered or ground cork",162185
+201909,4502,"Natural cork, debacked or roughly squared, or in square or rectangular blocks, plates, sheets or strip, incl. sharp-edged blanks for corks or stoppers",365
+201909,4503,Articles of natural cork.,349398
+201909,4504,"Agglomerated cork, with or without a binding substance, and articles of agglomerated cork",13584893
+201909,4601,"Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting materials, bound together in parallel strands or woven, in sheet form, whether or not being finished articles (for example, mats, matting, screens).",166680423
+201909,4602,"Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading 46.01; articles of loofah.",705789493
+201909,4702,"Chemical wood pulp, dissolving grades.",666505
+201909,4703,"Chemical wood pulp, soda or sulphate, other than dissolving grades.",13759460
+201909,4706,"Pulps of fibres derived from recovered ""waste and scrap"" paper or paperboard or of other fibrous cellulosic material",54334423
+201909,4707,ecovered (waste and scrap) paper or paperboard.,140094
+201909,4801,"Newsprint, in rolls or sheets.",4581668
+201909,4802,"Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non perforated punchcards and punch tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 48.01 or 48.03; handmade paper and paperboard.",585426613
+201909,4803,"Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surfacecoloured, surface decorated or printed, in rolls or sheets.",206333097
+201909,4804,"Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 48.02 or 48.03.",76861891
+201909,4805,"Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in Note 3 to this Chapter.",371367182
+201909,4806,"vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets.",96104062
+201909,4807,"Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface coated or impregnated, whether or not internally reinforced, in rolls or sheets.",6778105
+201909,4808,"Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper of the kind described in heading 48.03.",52993808
+201909,4809,"Carbon paper, selfcopy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets.",131725239
+201909,4810,"Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating, whether or not surface coloured, surfacedecorated or printed, in rolls or rectangular (including square) sheets, of any size.",1695096094
+201909,4811,"Paper, paperboard, cellulose wadding and webs of cellulose fibres,coated,impregnated,covered, surfacecoloured, surface decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 48.03, 48.09 or 48.10.",1004762876
+201909,4812,"Filter blocks, slabs and plates, of paper pulp.",3024559
+201909,4813,"Cigarette paper, whether or not cut to size or in the form of booklets or tubes.",78113935
+201909,4814,Wallpaper and similar wall coverings; window transparencies of paper.,220414332
+201909,4816,"Carbon paper, self-copy paper and other copying or transfer papers, in rolls of a width of ≤ 36 cm or in rectangular or square sheets with no side measuring > 36 cm in the unfolded state, or cut into shapes other than rectangles or squares, together with full duplicator stencils and offset plates of paper, whether or not in boxes",106049853
+201909,4817,"Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationery.",127793556
+201909,4818,"Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width ≤ 36 cm, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, serviettes, bedsheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres",1523797283
+201909,4819,"Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres, n.e.s.; box files, letter trays, and similar articles, of paperboard of a kind used in offices, shops or the like",3395891355
+201909,4820,"Registers, account books, note books, order books, receipt books, letter pads, memorandum pads,diaries and similar articles, exercise books, blottingpads, binders (looseleaf or other), folders, file covers, manifold business forms, interleaved carbon sets and other articles of stationery, of paper or paperboard; albums for samples or for collections and book covers, of paper or paperboard.",930857079
+201909,4821,"paper or paperboard labels of all kinds, whether or not printed.",489090156
+201909,4822,"Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard (whether or not perforated or hardened).",36297532
+201909,4823,"Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper,paperboard, cellulose wadding or webs of cellulose fibres.",1732074493
+201909,4901,"Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets.",676941627
+201909,4902,"Newspapers, journals and periodicals, whether or not illustrated or containing advertising material.",5378876
+201909,4903,"Children's picture, drawing or colouring books.",474829881
+201909,4904,"Music, printed or in manuscript, whether or not bound or illustrated",67176
+201909,4905,"Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed.",16055142
+201909,4906,"Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; handwritten texts; photographic reproductions on sensitised paper and carbon copies of the foregoing",7671677
+201909,4907,"Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed paper; banknotes; cheque forms; stock, share or bond certificates and similar documents of title",42369162
+201909,4908,Transfers (decalcomanias),103556025
+201909,4909,"Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes or trimmings.",477306928
+201909,4910,"Calendars of any kind, printed, including calendar blocks.",135784086
+201909,4911,"Other printed matter, including printed pictures and photographs.",599983133
+201909,5001,Silkworm cocoons suitable for reeling.,186390
+201909,5002,Raw silk (not thrown).,92864867
+201909,5003,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock).",11628178
+201909,5004,Silk yarn (other than yarn spun from silk waste) not put up for retail sale.,47451801
+201909,5005,"Yarn spun from silk waste, not put up for retail sale.",38164371
+201909,5006,"Silk yarn and yarn spun from silk waste, put up for retail sale;silkworm gut.",60818
+201909,5007,Woven fabrics of silk or of silk waste.,289252823
+201909,5101,"Wool, not carded or combed.",11747815
+201909,5103,"Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock.",10204733
+201909,5105,"Wool and fine or coarse animal hair, carded or combed (including combed wool in fragments).",389604003
+201909,5106,"Yarn of carded wool, not put up for retail sale.",60988103
+201909,5107,"Yarn of combed wool, not put up for retail sale.",179303004
+201909,5108,"yarn of fine animal hair (carded or combed), not put up for retail sale.",263772828
+201909,5109,"Yarn of wool or of fine animal hair, put up for retail sale.",15226686
+201909,5110,"Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale.",41595
+201909,5111,Woven fabrics of carded wool or of carded fine animal hair.,51662711
+201909,5112,Woven fabrics of combed wool or of combed fine animal hair.,246631906
+201909,5113,Woven fabrics of coarse animal hair or of horsehair.,1819465
+201909,5201,"Cotton, not carded or combed.",52876420
+201909,5202,Cotton waste (including yarn waste and garnetted stock).,387166
+201909,5203,"Cotton, carded or combed.",1268
+201909,5204,"Cotton sewing thread, whether or not put up for retail sale.",11876734
+201909,5205,"Cotton yarn (other than sewing thread), containing 85% or more by weight of cotton, not put up for retail sale.",484131218
+201909,5206,"otton yarn (other than sewing thread), containing less than 85% by weight of cotton, not put up for retail sale.",218530598
+201909,5207,otton yarn (other than sewing thread) put up for retail sale.,10804145
+201909,5208,"Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing not more than 200 g/m2",3816253693
+201909,5209,"Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing more than 200 g/m2",1329290827
+201909,5210,"Woven fabrics of cotton, containing less than 85% by weight of cotton, mixed mainly or solely with manmade fibres, weighing not more than 200 g/m2.",603270409
+201909,5211,"Woven fabrics of cotton, containing less than 85% by weight of cotton, mixed mainly or solely with manmade fibres, weighing more than 200 g/m2.",1413351466
+201909,5212,Other woven fabrics of cotton.,42293076
+201909,5301,"Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock).",797946
+201909,5302,"True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock).",23819
+201909,5305,"Coconut, abaca ""Manila hemp or Musa textilis Nee"", ramie, agave and other vegetable textile fibres, n.e.s., raw or processed, but not spun; tow, noils and waste of such fibres, incl. yarn waste and garnetted stock",1965762
+201909,5306,lax yarn.,144083173
+201909,5307,Yarn of jute or of other textile bast fibres of heading 53.03.,2578653
+201909,5308,Yarn of other vegetable textile fibres; paper yarn.,16451731
+201909,5309,Woven fabrics of flax.,303908727
+201909,5310,Woven fabrics of jute or of other textile bast fibres of heading 5303,2613701
+201909,5311,Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn.,101490457
+201909,5401,"Sewing thread of manmade filaments, whether or not put up for retail sale.",227491636
+201909,5402,"Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex.",3015592785
+201909,5403,"Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex.",254625619
+201909,5404,"Synthetic monofilament of 67 decitex or more and of which no crosssectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of synthetic textile materials of an apparent width not exceeding 5 mm.",106528408
+201909,5405,"Artificial monofilament of 67 decitex or more and of which no crosssectional dimension exceeds 1 mm; strip and the like (for example, artificial straw) of artificial textile materials of an apparent width not exceeding 5 mm.",472422
+201909,5406,"Manmade filament yarn (other than sewing thread), put up for retail sale.",56755763
+201909,5407,"Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 54.04.",8470959836
+201909,5408,"Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 54.05.",122314367
+201909,5501,Synthetic filament tow.,35768540
+201909,5502,Artificial filament tow.,40949470
+201909,5503,"Synthetic staple fibres, not carded, combed or otherwise processed for spinning.",654277333
+201909,5504,"Artificial staple fibres, not carded, combed or otherwise processed for spinning.",230524011
+201909,5505,"Waste (including noils, yarn waste and garnetted stock) of manmade fibres.",23064
+201909,5506,"Synthetic staple fibres, carded, combed or otherwise processed for spinning.",14554645
+201909,5507,"Artificial staple fibres, carded, combed or otherwise processed for spinning.",4105793
+201909,5508,"Sewing thread of manmade staple fibres, whether or not put up for retail sale.",252246926
+201909,5509,"Yarn (other than sewing thread) of synthetic staple fibres, not put up for retail sale.",723059859
+201909,5510,"Yarn (other than sewing thread) of artificial staple fibres, not put up for retail sale.",251436117
+201909,5511,"Yarn (other than sewing thread) of manmade staple fibres, put up for retail sale.",39347402
+201909,5512,"Woven fabrics of synthetic staple fibres, containing 85% or more by weight of synthetic staple fibres.",622141978
+201909,5513,"Woven fabrics of synthetic staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m2.",696570350
+201909,5514,"Woven fabrics of synthetic staple fibres, containing less than 85% by weight of such fibres, mixed mainly or solely with cotton, of a weight exceeding 170g/m2.",339226821
+201909,5515,Other woven fabrics of synthetic staple fibres.,978628941
+201909,5516,Woven fabrics of artificial staple fibres.,1542228392
+201909,5601,"Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock),textile dust and mill neps.",151090043
+201909,5602,"Felt, whether or not impregnated, coated, covered or laminated.",96681212
+201909,5603,"Nonwovens, whether or not impregnated, coated, covered or laminated.",1824936212
+201909,5604,"Textile-covered rubber thread and cord; textile yarn, strip and the like of heading 5404 and 5405, impregnated, coated, covered or sheathed with rubber or plastics",167555068
+201909,5605,"Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, of textile fibres, combined with metal in the form of thread, strip or powder or covered with metal",53095323
+201909,5606,"Gimped yarn, gimped strip and the like of heading 5404 or 5405; chenille yarn, incl. flock chenille yarn, and loop wale-yarn",85976188
+201909,5607,"Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics",420287769
+201909,5608,"Knotted netting of twine, cordage or rope; made up fishing nets and other made up nets, of textile materials.",421464780
+201909,5609,"Articles of yarn, strip or the like of heading 54.04 or 54.05, twine, cordage, rope or cables, not elsewhere specified or included.",165182745
+201909,5701,"Carpets and other textile floor coverings, knotted, whether or not made up.",27567488
+201909,5702,"Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made up, incl. Kelem, Schumacks, Karamanie and similar hand-woven rugs",300388742
+201909,5703,"Carpets and other textile floor coverings, tufted, whether or not made up.",819118125
+201909,5704,"Carpets and other floor coverings, of felt, not tufted or flocked, whether or not made up",13346676
+201909,5705,"Other carpets and other textile floor coverings, whether or not made up.",662725616
+201909,5801,"Woven pile fabrics and chenille fabrics (excluding terry towelling and similar woven terry fabrics, tufted textile fabrics and narrow woven fabrics of heading 5806)",545476671
+201909,5802,"Terry towelling and similar woven terry fabrics, tufted textile fabrics (excluding narrow woven fabrics of heading 5806, carpets and other floor coverings)",24448807
+201909,5803,"Gauze, other than narrow fabrics of heading 58.06.",5916853
+201909,5804,"Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 60.02 to 60.06.",447406669
+201909,5805,"Hand-woven tapestries of the type Gobelin, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries, e.g. petit point, cross-stitch, whether or not made up (excluding Kelem, Schumacks, Karamanie and the like, and tapestries > 100 years old)",5905134
+201909,5806,"Narrow woven fabrics of textile materials, with a width of ≤ 30 cm (excluding labels, badges and similar articles); narrow fabrics consisting of warp without weft assembled by means of an adhesive ""bolducs""",893122343
+201909,5807,"Cabels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered.",222914834
+201909,5808,"Braids of textile materials, in the piece; ornamental trimmings of textile materials, in the piece, not embroidered, other than knitted or crocheted; tassels, pompons and similar articles of textile materials",91341060
+201909,5809,"Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 5605, of a kind used in apparel, as furnishing fabrics or for similar purposes, n.e.s.",541956
+201909,5810,"Embroidery on a textile fabric ground, in the piece, in strips or in motifs",522534064
+201909,5811,"Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading 5810 and quilted fabrics for bedding and furnishings)",48311859
+201909,5901,"Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading 5810 and quilted fabrics for bedding and furnishings)",194365855
+201909,5902,"Tyre cord fabric of high-tenacity yarn of nylon or other polyamides, polyesters or viscose rayon, whether or not dipped or impregnated with rubber or plastic",389649164
+201909,5903,"Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 59.02.",2854100004
+201909,5904,"Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape.",11775763
+201909,5905,Textile wall coverings.,8660490
+201909,5906,"Rubberised textile fabrics, other than those of heading 59.02.",97977435
+201909,5907,"Impregnated, coated or covered textile fabrics; painted canvas being theatrical scenery, studio backcloths or the like, n.e.s.",205225400
+201909,5908,"Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas-mantle fabric for incandescent gas mantles, whether or not impregnated",2208283
+201909,5909,"Textile hosepiping and similar textile tubing, whether or not impregnated or coated, with or without lining, armour or accessories of other materials",66377581
+201909,5910,"Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with metal or other material.",39333617
+201909,5911,"Textile products and articles, for technical use, specified in Note 7 to chapter 59",393002844
+201909,6001,"Pile fabrics, incl. ""long pile"" fabrics and terry fabrics, knitted or crocheted",2470958876
+201909,6002,"Knitted or crocheted fabrics of a width not exceeding 30cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other than those of heading 60.01.",77177071
+201909,6003,"Knitted or crocheted fabrics of a width not exceeding 30cm, other than those of heading 60.01 or 60.02.",27186185
+201909,6004,"Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other than those of heading 60.01",1928623039
+201909,6005,"Warp knit fabrics (including those made on galloon knitting machines), other than those of headings 60.01 to 60.04.",634005238
+201909,6006,Other knitted or crocheted fabrics.,5750458308
+201909,6101,"Men's or boys' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, wind-jackets and similar articles, knitted or crocheted (excluding suits, ensembles, jackets, blazers, bib and brace overalls and trousers)",379485661
+201909,6102,"Women's or girls' overcoats, carcoats, capes, cloaks, anoraks (including skijackets), windcheaters, windjackets and similar articles, knitted or crocheted, other than those of heading 61.04.",694623836
+201909,6103,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts",3201122875
+201909,6104,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts, knitted or crocheted",8619502086
+201909,6105,"en's or boys' shirts, knitted or crocheted.",470189937
+201909,6106,"Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted (excluding T-shirts and vests)",94009317
+201909,6107,"Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted (excluding vests and singlets)",1815679594
+201909,6108,"Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns, housecoats and similar articles, knitted or crocheted (excluding T-shirts, vests, brassieres, girdles, corsets and similar articles)",4059464902
+201909,6109,"T-shirts, singlets and other vests, knitted or crocheted",3373686047
+201909,6110,"Jerseys, pullovers, cardigans, waistcoats and similar articles, of wool, knitted or crocheted (excluding wadded waistcoats)",17008554301
+201909,6111,"Babies' garments and clothing accessories of wool or fine animal hair, knitted or crocheted (excluding hats)",1213874969
+201909,6112,"Track-suits, ski-suits and swimwear, knitted or crocheted",669259233
+201909,6113,"Garments, knitted or crocheted, rubberised or impregnated, coated or covered with plastics or other materials (excluding babies' garments and clothing accessories)",101673351
+201909,6114,"Special garments for professional, sporting or other purposes, n.e.s., knitted or crocheted",1165662174
+201909,6115,"Pantyhose, tights, stockings, socks and other hosiery, incl. graduated compression hosiery [e.g., stockings for varicose veins] and footwear without applied soles, knitted or crocheted (excluding for babies)",4321379875
+201909,6116,"Gloves, mittens and mitts, knitted or crocheted (excluding for babies)",2049362432
+201909,6117,"Other made up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories.",1421411207
+201909,6201,"Men's or boys' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, wind-jackets and similar articles (excluding knitted or crocheted, suits, ensembles, jackets, blazers and trousers)",5370165707
+201909,6202,"Women's or girls' overcoats, car coats, capes, cloaks, anoraks, incl. ski jackets, windcheaters, wind-jackets and similar articles (excluding knitted or crocheted, suits, ensembles, jackets, blazers and trousers)",6984218696
+201909,6203,"Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (excluding knitted or crocheted, wind-jackets and similar articles, separate waistcoats, tracksuits, ski suits and swimwear)",7043073053
+201909,6204,"Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (excluding knitted or crocheted, wind-jackets and similar articles, slips, petticoats and panties, tracksuits, ski suits and swimwear)",11323629309
+201909,6205,Men's or boys' shirts.,1282031265
+201909,6206,"Women's or girls' blouses, shirts and shirtblouses.",851307134
+201909,6207,"Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles",259439520
+201909,6208,"Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns, housecoats and similar articles (excluding knitted or crocheted, brassières, girdles, corsets and similar articles)",575021892
+201909,6209,Babies garments and clothing accessories of textile materials (excluding knitted or crocheted and hats),257360943
+201909,6210,"Garments made up of felt or nonwovens, whether or not impregnated, coated, covered or laminated; garments of textile fabrics, rubberised or impregnated, coated, covered or laminated with plastics or other substances (excluding knitted or crocheted, and babies' garments and clothing accessories)",2483535685
+201909,6211,"Tracksuits, ski suits, swimwear and other garments, n.e.s.",2684782610
+201909,6212,"Brassieres, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, of all types of textile materials, whether or not elasticated, incl. knitted or crocheted (excluding belts and corselets made entirely of rubber)",2034427896
+201909,6213,Handkerchiefs,59091013
+201909,6214,"Shawls, scarves, mufflers, mantillas, veils and similar articles",1212675276
+201909,6215,"Ties, bow ties and cravats of textile materials",153416225
+201909,6216,"Gloves, mittens and mitts, of all types of textile materials (excluding knitted or crocheted and for babies)",410163930
+201909,6217,"Made-up clothing accessories and parts of garments or clothing accessories, of all types of textile materials, n.e.s.",188800131
+201909,6301,Blankets and travelling rugs,3126495750
+201909,6302,"Bed linen, table linen, toilet linen and kitchen linen.",5081276551
+201909,6303,Curtains (including drapes) and interior blinds; curtain or bed valances.,1386978424
+201909,6304,"Other furnishing articles, excluding those of heading 94.04.",1181892636
+201909,6305,"Packs and bags, of a kind used for the packing of goods.",1012526986
+201909,6306,"Tarpaulins, awnings and sunblinds; tents; sails for boats, sailboards or landcraft; camping goods of all types of textile materials",1062250876
+201909,6307,"other made up articles, including dress patterns.",4097690712
+201909,6308,"Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes, or similar textile articles, put up in packings for retail sale.",5249930
+201909,6309,Worn clothing and other worn articles.,181427793
+201909,6310,"Used or new rags, scrap twine, cordage, rope and cables and worn-out articles thereof, of textile materials",7751315
+201909,6401,"Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes.",429871485
+201909,6402,Other footwear with outer soles and uppers of rubber or plastics.,11522323806
+201909,6403,"ootwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather.",5588923617
+201909,6404,"Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials.",7084131800
+201909,6405,Other footwear.,888904360
+201909,6406,"Parts of footwear, incl. uppers whether or not attached to soles other than outer soles; removable in-soles, heel cushions and similar articles; gaiters, leggings and similar articles, and parts thereof (excluding articles of asbestos)",1694058620
+201909,6501,"Hatforms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt.",1301157
+201909,6502,"Hatshapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed.",4550194
+201909,6504,"Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed.",75284061
+201909,6505,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hairnets of any material, whether or not lined or trimmed.",1863513563
+201909,6506,"Other headgear, whether or not lined or trimmed.",953912224
+201909,6507,"Headbands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear.",49959467
+201909,6601,"Umbrellas and sun umbrellas (including walkingstick umbrellas, garden umbrellas and similar umbrellas).",1147649008
+201909,6602,"Walkingsticks, seatsticks, whips, ridingcrops and the like.",65963933
+201909,6603,"Parts, trimmings and accessories of articles of heading 66.01 or 66.02.",112256660
+201909,6701,"Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 05.05 and worked quills and scapes).",38845000
+201909,6702,"Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit.",2757706809
+201909,6703,"Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like.",34051071
+201909,6704,"igs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included.",2140500943
+201909,6801,"Setts, curbstones and flagstones, of natural stone (except slate).",130929213
+201909,6802,"Worked monumental or building stone (except slate) and articles thereof, other than goods of heading 68.01; mosaic cubes and the like, of natural stone (including slate), whether or not on a backing; artificially coloured granules, chippings and powder, of natural stone (including slate).",2298043276
+201909,6803,Worked slate and articles of slate or of agglomerated slate.,86387706
+201909,6804,"Millstones, grindstones, grinding wheels and the like, without frameworks, for milling, grinding, pulping, sharpening, polishing, trueing or cutting, hand sharpening or polishing stones, and parts thereof, of natural stone, of agglomerated natural or artificial abrasives, or of ceramics, with or without parts of other materials",508020700
+201909,6805,"Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made up.",242049247
+201909,6806,"Slag-wool, rock-wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and articles of heat-insulating, sound-insulating or sound absorbing mineral materials",236771883
+201909,6807,"Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch).",15863360
+201909,6808,"Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders.",107025283
+201909,6809,Articles of plaster or of compositions based on plaster.,129397813
+201909,6810,"Articles of cement, of concrete or of artificial stone, whether or not reinforced.",1688177760
+201909,6811,"Articles of asbestos-cement, of cellulose fibre-cement or the like.",79815822
+201909,6812,"Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos (for example, thread, woven fabric, clothing, headgear, footwear, gaskets), whether or not reinforced, other than goods of heading 68.11 or 68.13.",16435755
+201909,6813,"Friction material and articles thereof, e.g., sheets, rolls, strips, segments, discs, washers, pads, not mounted, for brakes, clutches or the like, with a basis of asbestos, other mineral substances or cellulose, whether or not combined with textile or other materials",40007711
+201909,6814,"Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials.",37493346
+201909,6815,"Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included.",400522543
+201909,6901,"Bricks, blocks, tiles and other ceramic goods of siliceous fossil meals (for example, kieselguhr, tripolite or diatomite) or of similar siliceous earths.",24584223
+201909,6902,"Refractory bricks, blocks, tiles and similar refractory ceramic constructional goods, other than those of siliceous fossil meals or similar siliceous earths.",857528132
+201909,6903,"Other refractory ceramic goods (for example, retorts, crucibles, muffles, nozzles, plugs, supports, cupels, tubes, pipes, sheaths and rods), other than those of siliceous fossil meals or of similar siliceous earths.",155675073
+201909,6904,"Geramic building bricks, flooring blocks, support or filler tiles and the like.",453918927
+201909,6905,"Roofing tiles, chimneypots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods.",26806149
+201909,6906,"Ceramic pipes, conduits, guttering and pipe fittings.",7551546
+201909,6907,"Geramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics.",2597520473
+201909,6909,"Geramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in agriculture; ceramic pots, jars and similar articles of a kind used for the conveyance or packing of goods.",364399619
+201909,6910,"Geramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures.",5102793816
+201909,6911,"Tableware, kitchenware, other household articles and toilet articles, of porcelain or china.",4180989996
+201909,6912,"Geramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china.",295538939
+201909,6913,Statuettes and other ornamental ceramic articles.,927416005
+201909,6914,Other ceramic articles.,409643656
+201909,7001,Cullet and other waste and scrap of glass; glass in the mass.,23517884
+201909,7002,"Glass in balls (other than microspheres of heading 70.18), rods or tubes, unworked.",116241587
+201909,7003,"Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or nonreflecting layer, but not otherwise worked.",585494461
+201909,7004,"Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or nonreflecting layer, but not otherwise worked.",18384142
+201909,7005,"Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or nonreflecting layer, but not otherwise worked.",355596569
+201909,7006,"Glass of heading 70.03, 70.04 or 70.05, bent, edgeworked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials.",373517163
+201909,7007,"safety glass, consisting of toughened (tempered) or laminated glass.",1645338900
+201909,7008,Multiplewalled insulating units of glass.,152568730
+201909,7009,"Glass mirrors, whether or not framed, including rearview mirrors.",1274086501
+201909,7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass.",1094637725
+201909,7011,"Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps, cathoderay tubes or the like.",4289809
+201909,7013,"Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 70.10 or 70.18).",2037874278
+201909,7014,"Signalling glassware and optical elements of glass (other than those of heading 70.15), not optically worked.",51593842
+201909,7015,"Clock or watch glasses and similar glasses, glasses for non corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked; hollow glass spheres and their segments, for the manufacture of such glasses.",11530891
+201909,7016,"Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multicellular or foam glass in blocks, panels, plates, shells or similar forms.",301986264
+201909,7017,"Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated.",63604117
+201909,7018,"Glass beads, imitation pearls, imitation precious or semiprecious stones and similar glass smallwares, and articles thereof other than imitation jewellery; glass eyes other than prosthetic articles; statuettes and other ornaments of lampworked glass, other than imitation jewellery; glass microspheres not exceeding 1mm in diameter.",645935882
+201909,7019,"Glass fibres (including glass wool) and articles thereof (for example, yarn, woven fabrics).",1284190714
+201909,7020,Other articles of glass.,347069233
+201909,7101,"Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport.",10957492
+201909,7102,"Diamonds, whether or not worked, but not mounted or set.",1047293769
+201909,7103,"Precious stones and semi-precious stones, whether or not worked or graded, but not strung, mounted or set, ungraded precious stones and semi-precious stones, temporarily strung for convenience of transport",45049060
+201909,7104,"Synthetic or reconstructed precious or semiprecious stones, whether or not worked or graded but not strung, mounted or set; ungraded synthetic or reconstructed precious or semiprecious stones, temporarily strung for convenience of transport.",181065784
+201909,7105,Dust and powder of natural or synthetic precious or semiprecious stones.,79838734
+201909,7106,"Silver (including silver plated with gold or platinum), unwrought or in semimanufactured forms, or in powder form.",889448081
+201909,7107,"Base metals clad with silver, not further worked than semimanufactured.",1679743
+201909,7108,"Gold (including gold plated with platinum) unwrought or in semimanufactured forms, or in powder form.",626372097
+201909,7109,"Base metals or silver, clad with gold, not further worked than semimanufactured.",8170
+201909,7110,"Platinum, unwrought or in semimanufactured forms, or in powder form.",57968944
+201909,7112,"Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious metal.",11157316
+201909,7113,"Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal.",8997008615
+201909,7114,"Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal.",155986469
+201909,7115,Other articles of precious metal or of metal clad with precious metal.,254859169
+201909,7116,"Articles of natural or cultured pearls, precious or semiprecious stones (natural, synthetic or reconstructed).",97428781
+201909,7117,Imitation jewellery.,1071966409
+201909,7118,Coin.,542039
+201909,7202,Ferroalloys.,560934764
+201909,7203,"Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94%, in lumps, pellets or similar forms.",88218
+201909,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel.,567012
+201909,7205,"Nranules and powders, of pig iron, spiegeleisen, iron or steel.",84752223
+201909,7206,Iron and nonalloy steel in ingots or other primary forms (excluding iron of heading 72.03).,1688178
+201909,7207,Semi-finished products of iron or nonalloy steel.,37378028
+201909,7208,"Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, hotrolled, not clad, plated or coated.",205449000
+201909,7209,"Flat-rolled products of iron or nonalloy steel, of a width of 600 mm or more, coldrolled (coldreduced), not clad, plated or coated.",841006669
+201909,7210,"at-rolled products of iron or non-alloy steel, of a width ≥ 600 mm, hot-rolled or cold-rolled ""cold-reduced"", clad, plated or coated",7635730310
+201909,7211,"Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, not clad, plated or coated.",82798501
+201909,7212,"Flat-rolled products of iron or nonalloy steel, of a width of less than 600 mm, clad, plated or coated.",283034595
+201909,7213,"Bars and rods, hotrolled, in irregularly wound coils, of iron or nonalloy steel.",142860639
+201909,7214,"Other bars and rods of iron or nonalloy steel, not further worked than forged, hotrolled, hotdrawn or hotextruded, but including those twisted after rolling.",230336445
+201909,7215,Other bars and rods of iron or nonalloy steel.,26596885
+201909,7216,"Angles, shapes and sections of iron or nonalloy steel.",529303215
+201909,7217,Wire of iron or nonalloy steel.,1265072399
+201909,7218,Stainless steel in ingots or other primary forms; semifinished products of stainless steel.,516092
+201909,7219,"Flat-rolled products of stainless steel, of a width of 600 mm or more.",2714340849
+201909,7220,"Flat-rolled products of stainless steel, of a width of less than 600 mm.",270282989
+201909,7221,"Bars and rods, hotrolled, in irregularly wound coils, of stainless steel.",119215404
+201909,7222,"Other bars and rods of stainless steel; angles, shapes and sections of stainless steel.",125629542
+201909,7223,Wire of stainless steel.,172519694
+201909,7224,Other alloy steel in ingots or other primary forms; semifinished products of other alloy steel.,1201711
+201909,7225,"Flat-rolled products of other alloy steel, of a width of 600 mm or more.",4710614348
+201909,7226,"Flat-rolled products of alloy steel other than stainless, of a width of ≥ 600 mm, hot-rolled or cold-rolled ""cold-reduced"" and further worked (excluding plated or coated with zinc and products of silicon-electrical steel)",109018278
+201909,7227,"Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel.",990919197
+201909,7228,"Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or nonalloy steel.",2004954581
+201909,7229,Wire of other alloy steel.,214962660
+201909,7301,"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel.",212399336
+201909,7302,"Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers ""cross-ties"", fish-plates, chairs, chair wedges, sole plates ""base plates"", rail clips, bedplates, ties and other material specialised for jointing or fixing rails",259542732
+201909,7303,"Tubes, pipes and hollow profiles, of cast iron.",164593134
+201909,7304,"Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel.",2875147693
+201909,7305,"Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel.",395112654
+201909,7306,"Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel.",1950012614
+201909,7307,"Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel.",2711767845
+201909,7308,"Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridgesections, lockgates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel.",8734340678
+201909,7309,"eservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",295734548
+201909,7310,"anks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",764157371
+201909,7311,"Containers for compressed or liquefied gas, of iron or steel.",441254556
+201909,7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated.",1090887385
+201909,7313,"Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel.",59946930
+201909,7314,"Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel.",713055057
+201909,7315,"Chain and parts thereof, of iron or steel.",906814860
+201909,7316,"Anchors, grapnels and parts thereof, of iron or steel.",41409209
+201909,7317,"Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper.",821898316
+201909,7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotterpins, washers (including spring washers) and similar articles, of iron or steel.",3569757074
+201909,7319,"Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included.",58264822
+201909,7320,"Springs and leaves for springs, of iron or steel.",324292878
+201909,7321,"Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gasrings, plate warmers and similar nonelectric domestic appliances, and parts thereof, of iron or steel.",1885551622
+201909,7322,"Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (including distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motordriven fan or blower, and parts thereof, of iron or steel.",161352026
+201909,7323,"Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel.",5253380796
+201909,7324,"Sanitary ware and parts thereof, of iron or steel.",1005888522
+201909,7325,Other cast articles of iron or steel.,482677603
+201909,7326,Other articles of iron or steel.,5292857116
+201909,7402,Unrefined copper; copper anodes for electrolytic refining.,8064
+201909,7403,"Refined copper and copper alloys, unwrought.",712033062
+201909,7404,Copper waste and scrap.,356842
+201909,7405,Master alloys of copper.,3598967
+201909,7406,Copper powders and flakes.,18942465
+201909,7407,"Copper bars, rods and profiles.",55121432
+201909,7408,Copper wire.,294777764
+201909,7409,"Copper plates, sheets and strip, of a thickness exceeding 0.15mm.",164038067
+201909,7410,"Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.15 mm.",411297291
+201909,7411,Copper tubes and pipes.,660952603
+201909,7412,"Copper tube or pipe fittings (for example, couplings, elbows, sleeves).",583206595
+201909,7413,"Stranded wire, cables, plaited bands and the like, of copper, not electrically insulated.",44895503
+201909,7415,"Nails, tacks, drawing pins, staples (other than those of heading 83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotterpins, washers (including spring washers) and similar articles, of copper.",58778826
+201909,7418,"Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper.",168448329
+201909,7419,Other articles of copper.,148749486
+201909,7502,nwrought nickel.,225162285
+201909,7503,Nickel waste and scrap.,1078149
+201909,7504,Nickel powders and flakes.,37299635
+201909,7505,"Nickel bars, rods, profiles and wire.",40207044
+201909,7506,"Nickel plates, sheets, strip and foil.",17806911
+201909,7507,"Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves).",28919576
+201909,7508,Other articles of nickel.,24074221
+201909,7601,Unwrought aluminium.,463633183
+201909,7602,Aluminium waste and scrap.,1565115
+201909,7603,Aluminium powders and flakes.,23358884
+201909,7604,"Aluminium bars, rods and profiles.",1725279199
+201909,7605,Aluminium wire.,54170676
+201909,7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm.",3344730957
+201909,7607,"Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm.",2170632838
+201909,7608,Aluminium tubes and pipes.,243434994
+201909,7609,"Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves).",149526270
+201909,7610,"Aluminium structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridgesections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures.",2279810534
+201909,7611,"Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",6677082
+201909,7612,"Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 l, whether or not lined or heatinsulated, but not fitted with mechanical or thermal equipment.",158875429
+201909,7613,Aluminium containers for compressed or liquefied gas.,27235523
+201909,7614,"Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated.",267049265
+201909,7615,"Table, kitchen or other household articles and parts thereof, of aluminium; pot scourers and scouring or polishing pads, gloves and the like, of aluminium; sanitary ware and parts thereof, of aluminium.",1736613260
+201909,7616,Other articles of aluminium.,2037807337
+201909,7801,Unwrought lead.,11035944
+201909,7804,"Lead plates, sheets, strip and foil; lead powders and flakes.",4436325
+201909,7806,Other articles of lead.,38409173
+201909,7901,Unwrought zinc.,56943768
+201909,7903,"zinc dust, powders and flakes.",1099914
+201909,7904,"Zinc bars, rods, profiles and wire.",6099476
+201909,7905,"Zinc plates, sheets, strip and foil.",598439
+201909,7907,Other articles of zinc.,76474848
+201909,8001,Unwrought tin.,16621656
+201909,8003,"Tin bars, rods, profiles and wire.",6602396
+201909,8007,Other articles of tin.,15401722
+201909,8101,"Wungsten (wolfram) and articles thereof, including waste and scrap.",207771304
+201909,8102,"Molybdenum and articles thereof, including waste and scrap.",124182405
+201909,8103,"Tantalum and articles thereof, including waste and scrap.",94629516
+201909,8104,"Magnesium and articles thereof, including waste and scrap.",583799001
+201909,8105,"Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap.",52797699
+201909,8106,"Bismuth and articles thereof, including waste and scrap.",18466677
+201909,8107,"Cadmium and articles thereof, including waste and scrap.",2115416
+201909,8108,"Titanium and articles thereof, including waste and scrap.",317043365
+201909,8109,"Zirconium and articles thereof, including waste and scrap.",1739355
+201909,8110,"Antimony and articles thereof, including waste and scrap.",49957983
+201909,8111,"Manganese and articles thereof, including waste and scrap.",557009317
+201909,8112,"Beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium, and articles of these metals, including waste and scrap.",67994167
+201909,8113,"Cermets and articles thereof, including waste and scrap.",32287396
+201909,8201,"Hand tools, the following : spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry.",338840584
+201909,8202,"Hand saws; blades for saws of all kinds (including slitting, slotting or toothless saw blades).",665191160
+201909,8203,"Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears, pipecutters, bolt croppers, perforating punches and similar hand tools.",440644274
+201909,8204,"Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles.",552133263
+201909,8205,"Hand tools (including glaziers' diamonds), not elsewhere specified or included; blow lamps; vices, clamps and the like, other than accessories for and parts of, machinetools or waterjet cutting machines; anvils; portable forges; hand or pedaloperated grinding wheels with frameworks.",1509094561
+201909,8206,"Tools of two or more of the headings 82.02 to 82.05, put up in sets for retail sale.",493907945
+201909,8207,"Interchangeable tools for hand tools, whether or not poweroperated, or for machinetools (for example, for pressing, stamping, punching, tapping, threading, drilling, boring, broaching, milling, turning or screw driving), including dies for drawing or extruding metal, and rock drilling or earth boring tools.",2080438018
+201909,8208,"Knives and cutting blades, for machines or for mechanical appliances.",225028825
+201909,8209,"Plates, sticks, tips and the like for tools, unmounted, of cermets.",286514747
+201909,8210,"Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink.",108567571
+201909,8211,"Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 82.08, and blades therefor.",856211671
+201909,8212,Razors and razor blades (including razor blade blanks in strips).,256394962
+201909,8213,"Scissors, tailors' shears and similar shears, and blades therefor.",329381035
+201909,8214,"Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files).",352816596
+201909,8215,"Spoons, forks, ladles, skimmers, cakeservers, fishknives, butterknives, sugar tongs and similar kitchen or tableware.",1048705595
+201909,8301,"Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal",2221952890
+201909,8302,"Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hatracks, hatpegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal",5661188879
+201909,8303,"Armoured or reinforced safes, strongboxes and doors and safe deposit lockers for strongrooms, cash or deed boxes and the like, of base metal",273182732
+201909,8304,"Filing cabinets, cardindex cabinets, paper trays, paper rests, pen trays, officestamp stands and similar office or desk equipment, of base metal, other than office furniture of heading 9403",92864535
+201909,8305,"Fittings for looseleaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in strips (for example, for offices, upholstery, packaging), of base metal",257840418
+201909,8306,"Bells, gongs and the like, nonelectric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal; mirrors of base metal",740606215
+201909,8307,"Flexible tubing of base metal, with or without fittings",184105813
+201909,8308,"Clasps, frames with clasps, buckles, buckleclasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing or clothing accessories, footwear, jewellery, wristwatches, books, awnings, leather goods, travel goods or saddlery or for other made up articles; tubular or bifurcated rivets, of base metal; beads and spangles, of base metal",568753791
+201909,8309,"Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), capsules for bottles, threaded bungs, bung covers, seals and other packing accessories, of base metal",369554435
+201909,8310,"Signplates, nameplates, addressplates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 9405",109123014
+201909,8311,"Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for soldering, brazing, welding or deposition of metal or of metal carbides; wire and rods, of agglomerated base metal powder, used for metal spraying",399306830
+201909,8401,"Nuclear reactors; fuel elements (cartridges), nonirradiated, for nuclear reactors; machinery and apparatus for isotopicseparation.",200094
+201909,8402,Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); superheated water boilers.,628719084
+201909,8403,Central heating boilers other than those of heading 8402.,126675631
+201909,8404,"Auxiliary plant for use with boilers of heading 84.02 or 84.03 (for example, economisers, superheaters, soot removers, gas recoverers); condensers for steam or other vapour power units.",258226007
+201909,8405,"Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers.",193445410
+201909,8406,Steam turbines and other vapour turbines.,534092918
+201909,8407,Sparkignition reciprocating or rotary internal combustion piston engines.,1295087999
+201909,8408,Compressionignition internal combustion piston engines (diesel or semidiesel engines).,823986184
+201909,8409,Parts suitable for use solely or principally with the engines of heading 84.07 or 84.08.,3313263072
+201909,8410,"Hydraulic turbines, water wheels, and regulators therefor.",194797002
+201909,8411,"Turbojets, turbopropellers and other gas turbines.",2121645386
+201909,8412,Other engines and motors.,1882460637
+201909,8413,"Pumps for liquids, whether or not fitted with a measuring device; liquid elevators.",4409284384
+201909,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters.",7974632663
+201909,8415,"Air conditioning machines, comprising a motordriven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated.",5931850540
+201909,8416,"Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates,mechanical ash dischargers and similar appliances.",77406461
+201909,8417,"Industrial or laboratory furnaces and ovens, including incinerators, nonelectric.",514551389
+201909,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading 84.15.",5890853723
+201909,8419,"Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 85.14), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, nonelectric.",2699432321
+201909,8420,"Calendering or other rolling machines, other than for metals or glass, and cylinders therefor.",52879298
+201909,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases.",5029201258
+201909,8422,"Dish washing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heatshrink wrapping machinery); machinery for aerating beverages.",1548704798
+201909,8423,"Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds.",797516754
+201909,8424,"Mechanical appliances (whether or not handoperated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines.",1924331257
+201909,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks.,1235133184
+201909,8426,"Ships' derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane.",2259329039
+201909,8427,Forklift trucks; other works trucks fitted with lifting or handling equipment.,1455106923
+201909,8428,"Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics).",2785136542
+201909,8429,"Self-propelled bulldozers, angledozers, graders, levellers, machines and road rollers.",2819015553
+201909,8430,"Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; piledrivers and pileextractors; snowploughs and snowblowers.",1590248351
+201909,8431,Parts suitable for use solely or principally with the machinery of headings 84.25 to 84.30.,5582971382
+201909,8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sportsground rollers.",319928545
+201909,8433,"Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 84.37.",952861507
+201909,8434,Milking machines and dairy machinery.,22162695
+201909,8435,"Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages.",13023097
+201909,8436,"Other agricultural, horticultural, forestry, poultrykeeping or beekeeping machinery, including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders.",369889764
+201909,8437,"Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables, other than farmtype machinery.",272181613
+201909,8438,"Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable fats or oils.",593031250
+201909,8439,Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard.,552021046
+201909,8440,"Bookbinding machinery, including booksewing machines.",25232740
+201909,8441,"Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds.",786008854
+201909,8442,"Machinery, apparatus and equipment (other than the machines of headings 84.56 to 84.65) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished).",83299502
+201909,8443,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines,whether or not combined; parts and accessories thereof.",8950133812
+201909,8444,"Machines for extruding, drawing, texturing or cutting man-made textile materials",176943596
+201909,8445,"Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weftwinding) machines and machines for preparing textile yarns for use on the machines of heading 84.46 or 84.47.",292480560
+201909,8446,Weaving machines (looms),167180708
+201909,8447,"Knitting machines, stitchbonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting.",476516627
+201909,8448,"Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or 84.47 (for example, dobbies, Jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 84.44, 84.45, 84.46 or 84.47 (for example, spindles and spindle flyers, card clothing, combs, extruding nipples, shuttles, healds and healdframes, hosiery needles).",331315781
+201909,8449,"Machinery for the manufacture or finishing of felt or 84.49 nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats.",81425379
+201909,8450,"Household or laundrytype washing machines, including machines which both wash and dry.",2354327312
+201909,8451,"Machinery (other than machines of heading 84.50) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics.",701952758
+201909,8452,"Sewing machines, other than booksewing machines of heading 84.40; furniture, bases and covers specially designed for sewing machines; sewing machine needles.",1012558329
+201909,8453,"Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines.",262083851
+201909,8454,"Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries.",386649149
+201909,8455,Metalrolling mills and rolls therefor.,731679427
+201909,8456,"Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electrodischarge, electrochemical, electron beam, ionicbeam or plasma arc processes; waterjet cutting machines.",640994641
+201909,8457,"Machining centres, unit construction machines (single station) and multistation transfer machines, for working metal.",132725477
+201909,8458,Lathes (including turning centres) for removing metal.,245704292
+201909,8459,"Machinetools (including waytype unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 84.58.",192547380
+201909,8460,"Machinetools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other heading 84.61.",166031968
+201909,8461,"Machinetools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cuttingoff and other machinetools working by removing metal or cermets, not elsewhere specified or included.",176934312
+201909,8462,"Machinetools (including presses) for working metal by forging, hammering or diestamping; machinetools (including presses) for working metal by bending, folding, straightening, flattening, shearing, punching or notching; presses for working metal or metal carbides, not specified above.",651767692
+201909,8463,"Other machinetools for working metal or cermets, without removing material.",193661177
+201909,8464,"Machinetools for working stone, ceramics, concrete, asbestoscement or like mineral materials or for cold working glass.",271013427
+201909,8465,"Machinetools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials.",1112305192
+201909,8466,"Parts and accessories suitable for use solely or principally with the machines of headings 84.56 to 84.65, including work or tool holders, selfopening dieheads, dividing heads and other special attachments for the machines; tool holders for any type of tool for working in the hand.",709207538
+201909,8467,"Tools for working in the hand, pneumatic, hydraulic or with selfcontained electric or nonelectric motor.",5945966694
+201909,8468,"Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 85.15; gasoperated surface tempering machines and appliances.",130362073
+201909,8470,"Calculating machines and pocketsize data recording, reproducing and displaying machines with calculating functions; accounting machines, postagefranking machines, ticketissuing machines and similar machines, incorporating a calculating device; cash registers.",1111800303
+201909,8471,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in d form and machines for processing such data, not elsewhere specified or included.",85556415144
+201909,8472,"Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coinsorting machines, coincounting or wrapping machines, pencilsharpening machines, perforating or stapling machines).",809156770
+201909,8473,"Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 84.70 to 84.72.",16024591007
+201909,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand.",2025923308
+201909,8475,"Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware.",119178578
+201909,8476,"Automatic goodsvending machines (for example, postage stamp, cigarette, food or beverage machines), including moneychanging machines.",163218370
+201909,8477,"Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter.",2944597628
+201909,8478,"Machinery for preparing or making up tobacco, not specified or included elsewhere in this Chapter.",19076399
+201909,8479,"Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter.",4553808936
+201909,8480,"Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics.",3013773630
+201909,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressurereducing valves and thermostatically controlled valves.",9248749058
+201909,8482,Ball or roller bearings.,2854859024
+201909,8483,"Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints).",4242726551
+201909,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals.",234995948
+201909,8486,"Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in Note 9 (C) to this Chapter; parts and accessories.",1057032512
+201909,8487,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter.",680657581
+201909,8501,Electric motors and generators (excluding generating sets).,6319579543
+201909,8502,Electric generating sets and rotary converters.,2549756179
+201909,8503,Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02.,3281582556
+201909,8504,"Electrical transformers, static converters (for example, rectifiers) and inductors.",16625701555
+201909,8505,"Electromagnets; permanent magnets and articles intended to become permanent magnets after magnetisation; electromagnetic or permanent magnet chucks, clamps and similar holding devices; electromagnetic couplings, clutches and brakes; electromagnetic lifting heads.",1722452940
+201909,8506,Primary cells and primary batteries.,1351896729
+201909,8507,"Electric accumulators, including separators therefor, whether or not rectangular (including square).",10361152792
+201909,8508,Vacuum cleaners.,3461803202
+201909,8509,"Electromechanical domestic appliances, with selfcontained electric motor, other than vacuum cleaners of heading 85.08.",4586573935
+201909,8510,"Shavers, hair clippers and hairremoving appliances, with selfcontained electric motor.",896322000
+201909,8511,"Electrical ignition or starting equipment of a kind used for sparkignition or compressionignition internal combustion engines (for example, ignition magnetos, magnetodynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cutouts of a kind used in conjunction with such engines.",1138435129
+201909,8512,"Electrical lighting or signalling equipment (excluding articles of heading 85.39), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles.",2666337946
+201909,8513,"Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 85.12.",1364277787
+201909,8514,Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss.,745499115
+201909,8515,"Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets.",979635077
+201909,8516,"Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electrothermic hairdressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric smoothing irons; other electrothermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 85.45.",15014047050
+201909,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 84.43, 85.25, 85.27 or 85.28.",166788605913
+201909,8518,"Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audiofrequency electric amplifiers; electric sound amplifier sets.",11403462610
+201909,8519,Sound recording or reproducing apparatus.,526445238
+201909,8521,"Video recording or reproducing apparatus, whether or not incorporating a video tuner.",2265997333
+201909,8522,Parts and accessories suitable for use solely or principally with the apparatus of heading 85.19 or 85.21.,334340578
+201909,8523,"Discs, tapes, solidstate nonvolatile storage devices, .smart cards. and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37.",2850790065
+201909,8525,"Transmission apparatus for radiobroadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders.",5741794483
+201909,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus.",1644172920
+201909,8527,"Reception apparatus for radiobroadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock.",2231040077
+201909,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radiobroadcast receivers or sound or video recording or reproducing apparatus.",18691852003
+201909,8529,Parts suitable for use solely or principally with the apparatus of headings 85.25 to 85.28.,9941984714
+201909,8530,"Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 86.08).",125657985
+201909,8531,"Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 85.12 or 85.30.",2085621731
+201909,8532,"Electrical capacitors, fixed, variable or adjustable (preset).",2377513740
+201909,8533,"Electrical resistors (including rheostats and potentiometers), other than heating resistors.",837684468
+201909,8534,Printed circuits.,9302912577
+201909,8535,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 volts.",534790946
+201909,8536,"Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lampholders and other connectors, junction boxes), for a voltage not exceeding 1,000 volts; connectors for optical fibres, optical fibre bundles or cables.",9496374792
+201909,8537,"Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 85.17.",5728342307
+201909,8538,Apparatus for protecting electrical circuits for a voltage ≤ 1000 V (excluding fuses and automatic circuit breakers),2295955893
+201909,8539,"Electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc-lamps; light-emitting diode (LED) lamps",4218417542
+201909,8540,"Thermionic, cold cathode or photocathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathoderay tubes, television camera tubes).",44706057
+201909,8541,"Diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED); mounted piezo-electric crystals.",22178143379
+201909,8542,Electronic integrated circuits.,65737133400
+201909,8543,"Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this Chapter.",10141740921
+201909,8544,"Insulated (including enamelled or anodised) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors.",13078008609
+201909,8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes.",1842168305
+201909,8546,Electrical insulators of any material.,275001212
+201909,8547,"Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 85.46; electrical conduit tubing and joints therefor, of base metal lined with insulating material.",297532319
+201909,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, not specified or included elsewhere in this Chapter.",813139272
+201909,8601,Rail locomotives powered from an external source of electricity or by electric accumulators.,2487739
+201909,8602,Other rail locomotives; locomotive tenders.,9042937
+201909,8603,"Selfpropelled railway or tramway coaches, vans and trucks, other than those of heading 86.04.",336341859
+201909,8604,"Railway or tramway maintenance or service vehicles, whether or not selfpropelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles).",2272396
+201909,8605,"Railway or tramway passenger coaches, not selfpropelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not selfpropelled (excluding those of heading 86.04).",2968158
+201909,8606,"Railway or tramway goods vans and wagons, not selfpropelled.",185538650
+201909,8607,Parts of railway or tramway locomotives or rollingstock.,758877450
+201909,8608,"Railway or tramway track fixtures and fittings; mechanical 86.08 (including electromechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland parts of the foregoing.",44964132
+201909,8609,Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport.,3407014905
+201909,8701,Tractors (other than tractors of heading 87.09).,824714491
+201909,8702,"Motor vehicles for the transport of ten or more persons, including the driver.",1708626524
+201909,8703,"Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing cars.",5550578127
+201909,8704,Motor vehicles for the transport of goods.,2102002149
+201909,8705,"Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concretemixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units).",764014614
+201909,8706,"Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05.",79401378
+201909,8707,"Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05.",135563353
+201909,8708,Parts and accessories of the motor vehicles of headings 87.01 to,20459872184
+201909,8709,"Works trucks, selfpropelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles.",122849293
+201909,8711,"Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without sidecars; sidecars.",4868986021
+201909,8712,"Bicycles and other cycles (including delivery tricycles), not motorised.",1632191565
+201909,8713,"Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled.",423140925
+201909,8714,Parts and accessories of vehicles of headings 87.11 to 87.13.,3496457529
+201909,8715,Baby carriages and parts thereof.,743617588
+201909,8716,"Trailers and semitrailers; other vehicles, not mechanically propelled; parts thereof.",2356868292
+201909,8801,"Balloons and dirigibles; gliders, hang gliders and other non powered aircraft.",417999
+201909,8802,"Other aircraft (for example, helicopters, aeroplanes); spacecraft (including satellites) and suborbital and spacecraft launch vehicles.",238167507
+201909,8803,Parts of goods of heading 88.01 or 88.02.,1297541825
+201909,8804,Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto.,1884340
+201909,8805,Aircraft launching gear; deckarrestor or similar gear; ground flying trainers; parts of the foregoing articles.,36144046
+201909,8901,"Cruise ships, excursion boats, ferryboats, cargo ships, barges and similar vessels for the transport of persons or goods.",9650190602
+201909,8902,Fishing vessels; factory ships and other vessels for processing or preserving fishery products.,27382109
+201909,8903,Yachts and other vessels for pleasure or sports; rowing boats and canoes.,147151394
+201909,8904,Tugs and pusher craft.,531038004
+201909,8905,"Lightvessels, firefloats, dredgers, floating cranes and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms.",4688675893
+201909,8906,"Other vessels, including warships and lifeboats other than rowing boats.",108356326
+201909,8907,"Other floating structures (for example, rafts, tanks, cofferdams, landingstages, buoys and beacons).",50463963
+201909,9001,"Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 85.44; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked.",2623678368
+201909,9002,"Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked.",2253629816
+201909,9003,"Frames and mountings for spectacles, goggles or the like, and parts thereof.",871777951
+201909,9004,"Spectacles, goggles and the like, corrective, protective or other.",1518277456
+201909,9005,"Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radioastronomy.",290130708
+201909,9006,Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 85.39.,323276740
+201909,9007,"Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus.",95918218
+201909,9008,"Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers.",37673238
+201909,9010,"Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this Chapter; negatoscopes; projection screens.",57501306
+201909,9011,"Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection.",167893475
+201909,9012,Microscopes other than optical microscopes; diffraction apparatus.,19006386
+201909,9013,"Liquid crystal devices not constituting articles provided for more specifically in other headings; lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this Chapter.",14899626113
+201909,9014,Direction finding compasses; other navigational instruments and appliances.,129099846
+201909,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders.",620442679
+201909,9016,"Balances of a sensitivity of 5 cg or better, with or without weights.",34352799
+201909,9017,"Drawing, markingout or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in this Chapter.",427716041
+201909,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electromedical apparatus and sighttesting instruments.",4459072952
+201909,9019,"Mechanotherapy appliances; massage apparatus; psychological aptitudetesting apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus.",2543824982
+201909,9020,"Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters.",33033528
+201909,9021,"Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability.",1284145452
+201909,9022,"Apparatus based on the use of Xrays or of alpha, beta or gamma radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus, Xray tubes and other Xray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like.",1224642117
+201909,9023,"Instruments, apparatus and models, designed for 90.23 demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses.",547543778
+201909,9024,"Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics).",82313309
+201909,9025,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments.",660089431
+201909,9026,"Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 90.14, 90.15, 90.28 or 90.32.",1097630279
+201909,9027,"Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes.",1584964662
+201909,9028,"Gas, liquid or electricity supply or production meters, including calibrating meters therefor.",1142670313
+201909,9029,"Revolution counters, production counters, taximeters, mileometers, pedometers and the like; speed indicators and tachometers, other than those of heading 90.14 or 90.15; stroboscopes.",214850676
+201909,9030,"Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 90.28; instruments and apparatus for measuring or detecting alpha, beta, gamma, Xray, cosmic or other ionising radiations.",825326520
+201909,9031,"Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors.",2520624192
+201909,9032,Automatic regulating or controlling instruments and apparatus.,2121007997
+201909,9033,"Parts and accessories (not specified or included elsewhere in this Chapter) for machines, appliances, instruments or apparatus of Chapter 90.",175838029
+201909,9101,"Wristwatches, pocketwatches and other watches, including stopwatches, with case of precious metal or of metal clad with precious metal.",152196444
+201909,9102,"Wristwatches, pocketwatches and other watches, including stopwatches, other than those of heading 91.01.",1336197832
+201909,9103,"Clocks with watch movements, excluding clocks of heading 91.04.",3417573
+201909,9104,"Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels.",4180241
+201909,9105,Other clocks.,488700069
+201909,9106,"Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, timeregisters, timerecorders).",57369581
+201909,9107,Time switches with clock or watch movement or with synchronous motor.,53592620
+201909,9108,"Watch movements, complete and assembled.",68702939
+201909,9109,"Clock movements, complete and assembled.",12074994
+201909,9110,"Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements.",29433985
+201909,9111,Watch cases and parts thereof.,287489244
+201909,9112,"Clock cases and cases of a similar type for other goods of this Chapter, and parts thereof.",2758160
+201909,9113,"Watch straps, watch bands and watch bracelets, and parts thereof.",226545303
+201909,9114,Other clock or watch parts.,198154313
+201909,9201,"Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments.",27974033
+201909,9202,"Other string musical instruments (for example, guitars, violins, harps).",265919697
+201909,9205,"Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs.",118573534
+201909,9206,"Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas).",92567779
+201909,9207,"Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions).",536749800
+201909,9208,"Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other heading of this Chapter; decoy calls of all kinds; whistles, call horns and other mouthblown sound signalling instruments.",52752931
+201909,9209,"Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments; metronomes, tuning forks and pitch pipes of all kinds.",151024223
+201909,9303,"Other firearms and similar devices which operate by the firing of an explosive charge (for example, sporting shotguns and rifles, muzzleloading firearms, Very pistols and other devices designed to project only signal flares, pistols and revolvers for firing blank ammunition, captivebolt humane killers, linethrowing guns).",5660709
+201909,9304,"Other arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading 93.07.",60950365
+201909,9305,Parts and accessories of articles of headings 93.01 to 93.04.,9382767
+201909,9306,"Bombs, grenades, torpedoes, mines, missiles and similar munitions of war and parts thereof; cartridges and other ammunition and projectiles and parts thereof, including shot and cartridge wads.",2648710
+201909,9307,"Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor.",9823956
+201909,9401,"Seats (other than those of heading 94.02), whether or not convertible into beds, and parts thereof.",13533552066
+201909,9402,"Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists' chairs); barbers' chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles.",531890475
+201909,9403,Other furniture and parts thereof.,14918411721
+201909,9404,"Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered.",5824624010
+201909,9405,"Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included.",17430926275
+201909,9406,Prefabricated buildings.,900728035
+201909,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reducedsize (""scale"") models and similar recreational models, working or not; puzzles of all kinds.",26674168211
+201909,9504,"Video game consoles and machines, articles for funfair, table or parlour games, including pintables, billiards, special tables for casino games and automatic bowling alley equipment.",9869300115
+201909,9505,"Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes.",10201519662
+201909,9506,"Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including tabletennis) or outdoor games, not specified or included elsewhere in this Chapter; swimming pools and paddling pools.",6216018951
+201909,9507,"Fishing rods, fishhooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy birds?(other than those of heading 92.08 or 97.05) and similar hunting or shooting requisites.",750949870
+201909,9508,"Roundabouts, swings, shooting galleries and other fairground amusements; travelling circuses and travelling menageries; travelling theatres.",27931206
+201909,9601,"Worked ivory, bone, tortoiseshell, horn, antlers, coral, motherofpearl and other animal carving material, and articles of these materials (including articles obtained by moulding).",21165255
+201909,9602,"Worked vegetable or mineral carving material and articles of 96.02 these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins or of modelling pastes, and other moulded or carved articles, not elsewhere specified or included; worked, unhardened gelatin (except gelatin of heading 35.03) and articles of unhardened gelatin.",52460279
+201909,9603,"Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), handoperated mechanical floor sweepers, not motorised, mops and feather dusters; prepared knots and tufts for broom or brush making; paint pads and rollers; squeegees (other than roller squeegees).",2569960659
+201909,9604,Hand sieves and hand riddles.,1077872
+201909,9605,"Travel sets for personal toilet, sewing or shoe or clothes cleaning.",115719921
+201909,9606,"Buttons, pressfasteners, snapfasteners and pressstuds, button moulds and other parts of these articles; button blanks.",329016519
+201909,9607,Slide fasteners and parts thereof.,736039848
+201909,9608,"Ball point pens; felt tipped and other poroustipped pens and markers; fountain pens, stylograph pens and other pens; duplicating stylos; propelling or sliding pencils; penholders, pencilholders and similar holders; parts (including caps and clips) of the foregoing articles, other than those of heading 96.09.",1020883492
+201909,9609,"Pencils (other than pencils of heading 96.08), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks.",425941400
+201909,9610,"Slates and boards, with writing or drawing surfaces, whether or not framed.",248003205
+201909,9611,"Date, sealing or numbering stamps, and the like (including devices for printing or embossing labels), designed for operating in the hand; handoperated composing sticks and hand printing sets incorporating such composing sticks.",24031710
+201909,9612,"Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; inkpads, whether or not inked, with or without boxes.",109658537
+201909,9613,"Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks.",421415963
+201909,9614,"Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof.",102384088
+201909,9615,"Combs, hairslides and the like; hairpins, curling pins, curling grips, haircurlers and the like, other than those of heading 85.16,and parts thereof.",804866836
+201909,9616,"Scent sprays and similar toilet sprays, and mounts and heads therefor; powderpuffs and pads for the application of cosmetics or toilet preparations.",353339585
+201909,9617,"Vacuum flasks and other vacuum vessels, complete with cases; parts thereof other than glass inners.",1712743463
+201909,9618,Tailors' dummies and other lay figures; automata and other animated displays used for shop window dressing.,145022954
+201909,9619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of any material.",1244945771
+201909,9620,"Monopods, bipods, tripods and similar articles.",199509213
+201909,9701,"Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 49.06 and other than handpainted or handdecorated manufactured articles; collages and similar decorative plaques.",235722347
+201909,9702,"Original engravings, prints and lithographs.",1856436
+201909,9703,"Original sculptures and statuary, in any material.",13582994
+201909,9704,"Postage or revenue stamps, stamppostmarks, firstday covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 49.07.",6172
+201909,9705,"Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological, palaeontological, ethnographic or numismatic interest.",170161
+201909,9706,Antiques of an age exceeding one hundred years.,43024853
+201909,9801,Commodities not classified accroding to kind,14992872
+201909,9804,Articles of low value in simplified customs procedures,8135096230
+201909,9805,nan,2511245515
