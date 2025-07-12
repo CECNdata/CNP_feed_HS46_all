@@ -51,4 +51,4 @@ jobs:
         continue-on-error: true
         run: |
             cd feed
-            timeout 1800 xvfb-run python download_pyscript/run_optional.py   --path CNP-Customs-HS46/mapping/${{env.csv}} --line "${{matrix.line}}" --retry ${{env.retry}}
+            timeout 1800 xvfb-run python download_pyscript/run_release_day.py   --path CNP-Customs-HS46/mapping/${{env.csv}} --line "${{matrix.line}}" --retry ${{env.retry}}
