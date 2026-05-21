@@ -1,9 +1,9 @@
-name: 'CNP-HS4-latest'
+name: "CNP-HS4-latest"
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '1 1-4 20-25 * *'
+    - cron: "1 1-4 20-25 * *"
 
 env:
   repo_name: CECNdata/GA-sec
@@ -19,16 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-       include:
-         - line: 0
-         - line: 1
-         - line: 2
-         - line: 3
+        include:
+          - line: 0
+          - line: 1
+          - line: 2
+          - line: 3
     steps:
       - name: Checkout codes
         uses: actions/checkout@v6
         with:
-          repository: '${{ env.repo_name  }}'
+          repository: "${{ env.repo_name  }}"
           token: ${{ secrets.GH_PAT }}
           ref: main
 
@@ -55,8 +55,8 @@ jobs:
 
       - if: steps.docker-cache.outputs.cache-hit != 'true'
         run: |
-            docker pull ${{ env.docker_image }}
-            docker save ${{ env.docker_image }} -o /tmp/ga-sec_latest.tar
+          docker pull ${{ env.docker_image }}
+          docker save ${{ env.docker_image }} -o /tmp/ga-sec_latest.tar
 
       - if: steps.docker-cache.outputs.cache-hit == 'true'
         run: docker load -i /tmp/ga-sec_latest.tar
@@ -76,4 +76,4 @@ jobs:
             timeout ${{env.timeout}}  xvfb-run python ${{ env.dl_path}} \
             --path ${{ env.path }} \
             --line "${{ matrix.line }}" \
-            --retry ${{ env.retry }}    
+            --retry ${{ env.retry }}
