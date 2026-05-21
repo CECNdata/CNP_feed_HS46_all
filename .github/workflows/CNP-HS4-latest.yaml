@@ -26,14 +26,14 @@ jobs:
          - line: 3
     steps:
       - name: Checkout codes
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
         with:
           repository: '${{ env.repo_name  }}'
-          token: ${{ secrets.GH_PAT }} # `GH_PAT` is a secret that contains you PAT
+          token: ${{ secrets.GH_PAT }}
           ref: main
 
-      - name: Login to GitHub Container Registry
-        uses: docker/login-action@v3
+        name: Login to GitHub Container Registry
+        uses: docker/login-action@v4
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
@@ -43,7 +43,7 @@ jobs:
         run: |
           DIGEST=$(docker manifest inspect ${{ env.docker_image }} --verbose | jq -r '.Descriptor.digest')
           echo "digest=$DIGEST" >> $GITHUB_OUTPUT
-      - uses: actions/cache@v3
+      - uses: actions/cache@v5
         id: docker-cache
         with:
           path: /tmp/ga-sec_latest.tar
